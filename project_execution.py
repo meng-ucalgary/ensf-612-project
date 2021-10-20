@@ -1,3 +1,10 @@
+'''
+@author: Michael Lee adapting the code from Gede Artha Azriadi Prana original code
+
+Reference
+Gprana, “gprana/READMEClassifier,” GitHub. [Online]. Available: https://github.com/gprana/READMEClassifier. [Accessed: 20-Oct-2021].
+'''
+
 import configparser
 import logging
 import pandas
