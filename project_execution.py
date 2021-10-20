@@ -1,8 +1,3 @@
-'''
-Experiment on evaluation set (75% of the data) using different classifiers
-@author: gprana
-'''
-
 import configparser
 import logging
 import pandas
