@@ -242,7 +242,7 @@ class Readme:
 
                     # if no default subfolder was found, don't querying inside it
                     if flag == False:
-                        logging.info(f'Skipping {x} on {folder["html_url"]}')
+                        logging.info(f'Skipping {x} on {api_contents_url}')
                         continue
 
             for y in self._markdown_name:
