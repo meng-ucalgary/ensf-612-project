@@ -220,6 +220,31 @@ class Readme:
         repo_raw_url = self._api_raw_url + '/' + repo_name
 
         for x in self._default_folders:
+
+            # optimization - check if the default subfolder exists before querying
+            if x is not None:
+                api_contents_url = self._api_repo_base_url + '/' + repo_name + '/contents'
+                r1, r2, r3 = self.fetch_json(api_contents_url, self._api_header)
+
+                flag = False
+
+                if r1 == requests.codes.ok:
+                    self._request_countdown = int(r2['X-RateLimit-Remaining'])
+
+                    while len(r3) != 0:
+                        folder = r3.pop()
+
+                        if folder['name'] == x:
+                            logging.info(f'Found the default folder {x}')
+                            flag = True
+                            # break from the while loop
+                            break
+
+                    # if no default subfolder was found, don't querying inside it
+                    if flag == False:
+                        logging.info(f'Skipping {x} on {folder["html_url"]}')
+                        continue
+
             for y in self._markdown_name:
                 for z in self._markdown_exts:
                     test_url = ''
