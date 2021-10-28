@@ -243,7 +243,7 @@ class Readme:
         Downloads randon README files
         '''
 
-        while(self._request_countdown > 0 and self._readme_count < 1000):
+        while(self._request_countdown > 0 and self._readme_count != 0):
             # fetch the list of repositories
             response_code, repository_header, repository_array = self.fetch_json(
                 self._api_repository_url, api_headers=self._api_header, api_options=self.get_api_options())
@@ -256,7 +256,7 @@ class Readme:
             logging.info(f'Remaining API calls {self._request_countdown}')
 
             # loop through all items in the repository_array
-            while(self._request_countdown > 0 and self._readme_count < 1000 and len(repository_array) != 0):
+            while(self._request_countdown > 0 and self._readme_count != 0 and len(repository_array) != 0):
                 # fetch one item from the JSON array
                 repository = repository_array.pop()
 
@@ -305,7 +305,8 @@ class Readme:
                                 continue
 
                             self.save_file(qualified_name, repo_response['html_url'], sr)
-                            self._readme_count += 1
+                            self._readme_count -= 1
+                            logging.info(f'Remaining files to download {self._readme_count}')
 
 
 if __name__ == '__main__':
