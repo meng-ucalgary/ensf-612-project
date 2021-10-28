@@ -40,7 +40,7 @@ class Readme:
 
         # variables to track how many README files we want to download and how many we can
         # --------------------------------------------------------------------------------
-        self._readme_count = 20
+        self._readme_count = 1000
         self._request_countdown = 1
         # --------------------------------------------------------------------------------
 
