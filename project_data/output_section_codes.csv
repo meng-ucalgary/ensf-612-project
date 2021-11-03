@@ -1,0 +1,2114 @@
+file_id,section_id,local_readme_file,heading_markdown,section_code
+2,1,342450024.lib-flexible.md,#lib.flexible,-
+2,2,342450024.lib-flexible.md,## Update\xe3\x80?2016年01月13日】,-
+2,3,342450024.lib-flexible.md,## 最新版本,"-,4"
+2,4,342450024.lib-flexible.md,## 用Grunt打包,-
+2,5,342450024.lib-flexible.md,## \xe4\xbe?赖库,-
+2,6,342450024.lib-flexible.md,## 使用方法,-
+2,7,342450024.lib-flexible.md,## 把视觉稿中的px转\xe6?\xa2\xe6\x88?rem,-
+2,8,342450024.lib-flexible.md,## 字体\xe4\xb8?使用rem的方法,-
+2,9,342450024.lib-flexible.md,### 手动\xe9\x85?置dpr,-
+2,10,342450024.lib-flexible.md,### 手动设置rem基准值的方法,-
+2,11,342450024.lib-flexible.md,### 一些常用APIs,-
+2,12,342450024.lib-flexible.md,## 栅格系统,-
+2,13,342450024.lib-flexible.md,### 需引入makegrid.js,-
+2,14,342450024.lib-flexible.md,### 使用方法,-
+2,15,342450024.lib-flexible.md,### 利用meta输出栅格样\xe5\xbc?,-
+2,16,342450024.lib-flexible.md,### 栅格代\xe7\xa0?举例,-
+2,17,342450024.lib-flexible.md,### 四类栅格在\xe4\xb8?\xe5?\x8c手机上的表现,-
+3,1,aboutcode.vue2-elm.md,# \xe5\x89?言,-
+3,2,aboutcode.vue2-elm.md,## 技术栈,-
+3,3,aboutcode.vue2-elm.md,## 关于 数\xe6?\xae接\xe5?\xa3 的说明🤔,-
+3,4,aboutcode.vue2-elm.md,### 2017-05-30,
+3,5,aboutcode.vue2-elm.md,## 项目\xe8\xbf?行,-
+3,6,aboutcode.vue2-elm.md,#### 注\xe6\x84?：由于涉\xe5?\x8a大\xe9\x87?的 ES6/7 等新属性，nodejs 必须是 6.0 以上版本 ，node 7 是先行版，有\xe5?\xaf能会出问题，建议使用 node 6 稳定版,-
+3,7,aboutcode.vue2-elm.md,# 说明,-
+3,8,aboutcode.vue2-elm.md,# 效果演示,-
+3,9,aboutcode.vue2-elm.md,### 移动端扫\xe6??下方二维\xe7\xa0?,-
+3,10,aboutcode.vue2-elm.md,# 目标功能,-
+3,11,aboutcode.vue2-elm.md,# 总结,-
+3,12,aboutcode.vue2-elm.md,# 最终目标,-
+3,13,aboutcode.vue2-elm.md,# 部分截图,-
+3,14,aboutcode.vue2-elm.md,### 商铺列表页,-
+3,15,aboutcode.vue2-elm.md,### 商铺筛选页,-
+3,16,aboutcode.vue2-elm.md,### \xe9\xa4?馆食\xe5\x93?列表与购物车,-
+3,17,aboutcode.vue2-elm.md,### 确认订\xe5?\x95页,-
+3,18,aboutcode.vue2-elm.md,### \xe6?\x9c索页,-
+3,19,aboutcode.vue2-elm.md,### 登录页,-
+3,20,aboutcode.vue2-elm.md,### 个人中心,-
+3,21,aboutcode.vue2-elm.md,# 项目布局,-
+3,22,aboutcode.vue2-elm.md,# License,5
+4,1,adcentury.open.md,# [open.leancloud.cn](http://open.leancloud.cn/),"-,6"
+4,2,adcentury.open.md,## 本地\xe6?\xad建烹饪指\xe5?\x97（简易）,-
+4,3,adcentury.open.md,## 维护指\xe5?\x97,-
+4,4,adcentury.open.md,### 增加新\xe6?\xa1目,-
+4,5,adcentury.open.md,### 更新现有\xe6?\xa1目,-
+4,6,adcentury.open.md,### 样\xe5\xbc?\xef\xbc?脚本自定义,-
+4,7,adcentury.open.md,### 如何从 Atom feed 中\xe9\x9a?\xe8\x97?文章,-
+4,8,adcentury.open.md,## Licenses,"-,5"
+5,1,alcyon3.overthebox.md,# OverTheBox,"3,6"
+5,2,alcyon3.overthebox.md,## Prerequisites,3
+5,3,alcyon3.overthebox.md,## Install from pre-compiled images,3
+5,4,alcyon3.overthebox.md,## Install from source,3
+5,5,alcyon3.overthebox.md,### Dependencies,3
+5,6,alcyon3.overthebox.md,### Prepare,3
+5,7,alcyon3.overthebox.md,### Build,3
+5,8,alcyon3.overthebox.md,## Credits,5
+6,1,alexerwu.RepData_PeerAssessment1.md,## Introduction,1
+6,2,alexerwu.RepData_PeerAssessment1.md,## Data,3
+6,3,alexerwu.RepData_PeerAssessment1.md,## Assignment,3
+6,4,alexerwu.RepData_PeerAssessment1.md,### Loading and preprocessing the data,3
+6,5,alexerwu.RepData_PeerAssessment1.md,### What is mean total number of steps taken per day?,3
+6,6,alexerwu.RepData_PeerAssessment1.md,### What is the average daily activity pattern?,3
+6,7,alexerwu.RepData_PeerAssessment1.md,### Imputing missing values,3
+6,8,alexerwu.RepData_PeerAssessment1.md,### Are there differences in activity patterns between weekdays and weekends?,3
+6,9,alexerwu.RepData_PeerAssessment1.md,## Submitting the Assignment,3
+7,1,algal.ScrollViewUnderlapDemo.md,# What this is,1
+7,2,algal.ScrollViewUnderlapDemo.md,# Answer,"1,3"
+7,3,algal.ScrollViewUnderlapDemo.md,## what to do,
+7,4,algal.ScrollViewUnderlapDemo.md,## what's going on,1
+7,5,algal.ScrollViewUnderlapDemo.md,## fighting IB's layout guide mania,3
+8,1,All-Fel.startbootstrap-sb-admin-2.md,# [Start Bootstrap](http://startbootstrap.com/) - [SB Admin 2](http://startbootstrap.com/template-overviews/sb-admin-2/),1
+8,2,All-Fel.startbootstrap-sb-admin-2.md,## Getting Started,3
+8,3,All-Fel.startbootstrap-sb-admin-2.md,## Using the Source Files,3
+8,4,All-Fel.startbootstrap-sb-admin-2.md,## Bugs and Issues,"6,7"
+8,5,All-Fel.startbootstrap-sb-admin-2.md,## Creator,"5,6"
+8,6,All-Fel.startbootstrap-sb-admin-2.md,## Copyright and License,5
+9,1,alt-blog.alt-blog.github.io.md,# Jekyll Now,"1,3"
+9,2,alt-blog.alt-blog.github.io.md,## Quick Start,3
+9,3,alt-blog.alt-blog.github.io.md,### Step 1) Fork Jekyll Now to your User Repository,3
+9,4,alt-blog.alt-blog.github.io.md,### Step 2) Customize and view your site,3
+9,5,alt-blog.alt-blog.github.io.md,### Step 3) Publish your first blog post,3
+9,6,alt-blog.alt-blog.github.io.md,## Local Development,3
+9,7,alt-blog.alt-blog.github.io.md,## Moar!,6
+9,8,alt-blog.alt-blog.github.io.md,## Jekyll Now Features,1
+9,9,alt-blog.alt-blog.github.io.md,## Questions?,"5,6"
+9,10,alt-blog.alt-blog.github.io.md,## Other forkable themes,6
+9,11,alt-blog.alt-blog.github.io.md,## Credits,5
+9,12,alt-blog.alt-blog.github.io.md,## Contributing,7
+10,1,andrevinsky.iRate.md,## Purpose,1
+10,2,andrevinsky.iRate.md,## Supported OS & SDK Versions,4
+10,3,andrevinsky.iRate.md,## ARC Compatibility,3
+10,4,andrevinsky.iRate.md,## Thread Safety,1
+10,5,andrevinsky.iRate.md,## Installation,3
+10,6,andrevinsky.iRate.md,## Configuration,3
+10,7,andrevinsky.iRate.md,## Advanced properties,"3,6"
+10,8,andrevinsky.iRate.md,## Methods,3
+10,9,andrevinsky.iRate.md,## Delegate methods,3
+10,10,andrevinsky.iRate.md,## Localisation,"3,6"
+10,11,andrevinsky.iRate.md,## Example Projects,3
+10,12,andrevinsky.iRate.md,## Advanced Example,3
+11,1,andzi.scihub.md,# Analyses for the Sci-Hub Coverage Study,
+11,2,andzi.scihub.md,## Repository structure,1
+11,3,andzi.scihub.md,## Environment,3
+11,4,andzi.scihub.md,## Code Review,1
+11,5,andzi.scihub.md,## Acknowledgements,5
+12,1,anudeepsharma.compute-java-manage-virtual-machine-using-vm-extensions.md,## author: selvasingh,
+12,2,anudeepsharma.compute-java-manage-virtual-machine-using-vm-extensions.md,#Getting Started with Compute - Manage Virtual Machine Extension - in Java #,"3,6"
+12,3,anudeepsharma.compute-java-manage-virtual-machine-using-vm-extensions.md,## Running this Sample ##,"3,6"
+12,4,anudeepsharma.compute-java-manage-virtual-machine-using-vm-extensions.md,## More information ##,"5,6"
+13,1,Armaggoth.SitecoreHelixVSTemplates.md,# Sitecore Helix Visual Studio Project Templates with TDS,"1,4,5"
+14,1,Arthur31.float.md,# float,
+14,2,Arthur31.float.md,#####Things you'll need for this to run:,"3,4"
+14,3,Arthur31.float.md,#####TODOs/Upcoming Wishlisted Features,4
+14,4,Arthur31.float.md,######Licensing,5
+15,1,ATechWriter.p2.md,# The Jabberwocky Password Generator,3
+15,2,ATechWriter.p2.md,## Links,6
+15,3,ATechWriter.p2.md,## Notes,3
+15,4,ATechWriter.p2.md,## Citations,3
+16,1,audreyso.cordova-plugin-device.md,## description: Get device information.,1
+16,2,audreyso.cordova-plugin-device.md,# license: Licensed to the Apache Software Foundation (ASF) under one,5
+16,3,audreyso.cordova-plugin-device.md,#         or more contributor license agreements.  See the NOTICE file,"5,7"
+16,4,audreyso.cordova-plugin-device.md,#         distributed with this work for additional information,6
+16,5,audreyso.cordova-plugin-device.md,#         regarding copyright ownership.  The ASF licenses this file,5
+16,6,audreyso.cordova-plugin-device.md,"#         to you under the Apache License, Version 2.0 (the",
+16,7,audreyso.cordova-plugin-device.md,"#         ""License""); you may not use this file except in compliance",5
+16,8,audreyso.cordova-plugin-device.md,#         with the License.  You may obtain a copy of the License at,"-,5"
+16,9,audreyso.cordova-plugin-device.md,#           http://www.apache.org/licenses/LICENSE-2.0,"-,5"
+16,10,audreyso.cordova-plugin-device.md,"#         Unless required by applicable law or agreed to in writing,","-,3"
+16,11,audreyso.cordova-plugin-device.md,#         software distributed under the License is distributed on an,"-,5"
+16,12,audreyso.cordova-plugin-device.md,"#         ""AS IS"" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY",-
+16,13,audreyso.cordova-plugin-device.md,"#         KIND, either express or implied.  See the License for the",-
+16,14,audreyso.cordova-plugin-device.md,#         specific language governing permissions and limitations,"-,3"
+16,15,audreyso.cordova-plugin-device.md,#         under the License.,5
+16,16,audreyso.cordova-plugin-device.md,# cordova-plugin-device,"3,6"
+16,17,audreyso.cordova-plugin-device.md,## Installation,"3,6"
+16,18,audreyso.cordova-plugin-device.md,## Properties,"-,3,6"
+16,19,audreyso.cordova-plugin-device.md,## device.cordova,3
+16,20,audreyso.cordova-plugin-device.md,### Supported Platforms,"1,3"
+16,21,audreyso.cordova-plugin-device.md,## device.model,"3,6"
+16,22,audreyso.cordova-plugin-device.md,### Supported Platforms,1
+16,23,audreyso.cordova-plugin-device.md,### Quick Example,3
+16,24,audreyso.cordova-plugin-device.md,### Android Quirks,3
+16,25,audreyso.cordova-plugin-device.md,### Tizen Quirks,"3,6"
+16,26,audreyso.cordova-plugin-device.md,### Windows Phone 7 and 8 Quirks,3
+16,27,audreyso.cordova-plugin-device.md,## device.platform,"3,6"
+16,28,audreyso.cordova-plugin-device.md,### Supported Platforms,1
+16,29,audreyso.cordova-plugin-device.md,### Quick Example,3
+16,30,audreyso.cordova-plugin-device.md,### Windows Phone 7 Quirks,3
+16,31,audreyso.cordova-plugin-device.md,### Windows Phone 8 Quirks,3
+16,32,audreyso.cordova-plugin-device.md,## device.uuid,3
+16,33,audreyso.cordova-plugin-device.md,### Description,6
+16,34,audreyso.cordova-plugin-device.md,### Supported Platforms,1
+16,35,audreyso.cordova-plugin-device.md,### Quick Example,3
+16,36,audreyso.cordova-plugin-device.md,### iOS Quirk,
+16,37,audreyso.cordova-plugin-device.md,### OSX Quirk,-
+16,38,audreyso.cordova-plugin-device.md,### Windows Phone 7 and 8 Quirks,3
+16,39,audreyso.cordova-plugin-device.md,## device.version,"3,6"
+16,40,audreyso.cordova-plugin-device.md,### Supported Platforms,1
+16,41,audreyso.cordova-plugin-device.md,### Quick Example,3
+16,42,audreyso.cordova-plugin-device.md,## device.manufacturer,"-,3,6"
+16,43,audreyso.cordova-plugin-device.md,### Supported Platforms,"1,3"
+16,44,audreyso.cordova-plugin-device.md,### Quick Example,3
+16,45,audreyso.cordova-plugin-device.md,## device.isVirtual,3
+16,46,audreyso.cordova-plugin-device.md,### Supported Platforms,1
+16,47,audreyso.cordova-plugin-device.md,### OSX Quirk,3
+16,48,audreyso.cordova-plugin-device.md,## device.serial,"3,6"
+16,49,audreyso.cordova-plugin-device.md,### Supported Platforms,
+17,1,aychedee.keteparaha.md,# Keteparaha,"1,4,5"
+17,2,aychedee.keteparaha.md,## BrowserTestCase,"-,3"
+17,3,aychedee.keteparaha.md,## HeadlessBrowserTestCase,3
+17,4,aychedee.keteparaha.md,## Page,3
+17,5,aychedee.keteparaha.md,## Email,"1,3"
+17,6,aychedee.keteparaha.md,## Flow Control,1
+18,1,barrycann.basketball-teams-react.md,## Table of Contents,"3,6"
+18,2,barrycann.basketball-teams-react.md,## Updating to New Releases,3
+18,3,barrycann.basketball-teams-react.md,## Sending Feedback,6
+18,4,barrycann.basketball-teams-react.md,## Folder Structure,3
+18,5,barrycann.basketball-teams-react.md,## Available Scripts,3
+18,6,barrycann.basketball-teams-react.md,### `npm start`,3
+18,7,barrycann.basketball-teams-react.md,### `npm test`,3
+18,8,barrycann.basketball-teams-react.md,### `npm run build`,3
+18,9,barrycann.basketball-teams-react.md,### `npm run eject`,3
+18,10,barrycann.basketball-teams-react.md,## Syntax Highlighting in the Editor,"3,6"
+18,11,barrycann.basketball-teams-react.md,## Displaying Lint Output in the Editor,3
+18,12,barrycann.basketball-teams-react.md,## Installing a Dependency,3
+18,13,barrycann.basketball-teams-react.md,## Importing a Component,"3,6"
+18,14,barrycann.basketball-teams-react.md,### `Button.js`,3
+18,15,barrycann.basketball-teams-react.md,### `DangerButton.js`,3
+18,16,barrycann.basketball-teams-react.md,## Adding a Stylesheet,3
+18,17,barrycann.basketball-teams-react.md,### `Button.css`,3
+18,18,barrycann.basketball-teams-react.md,### `Button.js`,3
+18,19,barrycann.basketball-teams-react.md,## Post-Processing CSS,3
+18,20,barrycann.basketball-teams-react.md,## Adding Images and Fonts,3
+18,21,barrycann.basketball-teams-react.md,## Using the `public` Folder,3
+18,22,barrycann.basketball-teams-react.md,## Using Global Variables,3
+18,23,barrycann.basketball-teams-react.md,## Adding Bootstrap,3
+18,24,barrycann.basketball-teams-react.md,## Adding Flow,3
+18,25,barrycann.basketball-teams-react.md,## Adding Custom Environment Variables,3
+18,26,barrycann.basketball-teams-react.md,### Adding Temporary Environment Variables In Your Shell,3
+18,27,barrycann.basketball-teams-react.md,#### Windows (cmd.exe),3
+18,28,barrycann.basketball-teams-react.md,"#### Linux, OS X (Bash)",3
+18,29,barrycann.basketball-teams-react.md,### Adding Development Environment Variables In `.env`,3
+18,30,barrycann.basketball-teams-react.md,## Can I Use Decorators?,"3,6"
+18,31,barrycann.basketball-teams-react.md,## Integrating with a Node Backend,3
+18,32,barrycann.basketball-teams-react.md,## Proxying API Requests in Development,3
+18,33,barrycann.basketball-teams-react.md,## Using HTTPS in Development,3
+18,34,barrycann.basketball-teams-react.md,#### Windows (cmd.exe),3
+18,35,barrycann.basketball-teams-react.md,"#### Linux, OS X (Bash)",3
+18,36,barrycann.basketball-teams-react.md,## Generating Dynamic `<meta>` Tags on the Server,3
+18,37,barrycann.basketball-teams-react.md,## Running Tests,3
+18,38,barrycann.basketball-teams-react.md,### Filename Conventions,3
+18,39,barrycann.basketball-teams-react.md,### Command Line Interface,3
+18,40,barrycann.basketball-teams-react.md,### Version Control Integration,3
+18,41,barrycann.basketball-teams-react.md,### Writing Tests,3
+18,42,barrycann.basketball-teams-react.md,### Testing Components,3
+18,43,barrycann.basketball-teams-react.md,### Using Third Party Assertion Libraries,3
+18,44,barrycann.basketball-teams-react.md,### Initializing Test Environment,3
+18,45,barrycann.basketball-teams-react.md,#### `src/setupTests.js`,3
+18,46,barrycann.basketball-teams-react.md,### Focusing and Excluding Tests,3
+18,47,barrycann.basketball-teams-react.md,### Coverage Reporting,3
+18,48,barrycann.basketball-teams-react.md,### Continuous Integration,3
+18,49,barrycann.basketball-teams-react.md,### On CI servers,"3,6"
+18,50,barrycann.basketball-teams-react.md,#### Travis CI,"3,6"
+18,51,barrycann.basketball-teams-react.md,### On your own environment,3
+18,52,barrycann.basketball-teams-react.md,##### Windows (cmd.exe),3
+18,53,barrycann.basketball-teams-react.md,"##### Linux, OS X (Bash)",3
+18,54,barrycann.basketball-teams-react.md,### Disabling jsdom,3
+18,55,barrycann.basketball-teams-react.md,### Experimental Snapshot Testing,3
+18,56,barrycann.basketball-teams-react.md,### Editor Integration,3
+18,57,barrycann.basketball-teams-react.md,## Developing Components in Isolation,"3,6"
+18,58,barrycann.basketball-teams-react.md,## Making a Progressive Web App,3
+18,59,barrycann.basketball-teams-react.md,## Deployment,3
+18,60,barrycann.basketball-teams-react.md,### Serving Apps with Client-Side Routing,3
+18,61,barrycann.basketball-teams-react.md,### Building for Relative Paths,3
+18,62,barrycann.basketball-teams-react.md,### Firebase,"3,6"
+18,63,barrycann.basketball-teams-react.md,### GitHub Pages,3
+18,64,barrycann.basketball-teams-react.md,#### Step 1: Add `homepage` to `package.json`,3
+18,65,barrycann.basketball-teams-react.md,#### Step 2: Install `gh-pages` and add `deploy` to `scripts` in `package.json`,3
+18,66,barrycann.basketball-teams-react.md,#### Step 3: Deploy the site by running `npm run deploy`,3
+18,67,barrycann.basketball-teams-react.md,#### Step 4: Ensure your project's settings use `gh-pages`,3
+18,68,barrycann.basketball-teams-react.md,"#### Step 5: Optionally, configure the domain",3
+18,69,barrycann.basketball-teams-react.md,#### Notes on client-side routing,3
+18,70,barrycann.basketball-teams-react.md,### Heroku,"3,6"
+18,71,barrycann.basketball-teams-react.md,### Modulus,"3,6"
+18,72,barrycann.basketball-teams-react.md,## Netlify,3
+18,73,barrycann.basketball-teams-react.md,### Now,"1,3"
+18,74,barrycann.basketball-teams-react.md,### S3 and CloudFront,"1,3,6"
+18,75,barrycann.basketball-teams-react.md,### Surge,3
+18,76,barrycann.basketball-teams-react.md,## Troubleshooting,"3,6"
+18,77,barrycann.basketball-teams-react.md,### `npm test` hangs on macOS Sierra,3
+18,78,barrycann.basketball-teams-react.md,### `npm run build` silently fails,3
+18,79,barrycann.basketball-teams-react.md,## Something Missing?,6
+19,1,Binglin.MappingAce.md,## Usage,3
+19,2,Binglin.MappingAce.md,### JSON -> Model,-
+19,3,Binglin.MappingAce.md,##### Raw struct ,3
+19,4,Binglin.MappingAce.md,##### Nested struct mapping,3
+19,5,Binglin.MappingAce.md,###### Optional property,3
+19,6,Binglin.MappingAce.md,##### Enum,3
+19,7,Binglin.MappingAce.md,### Struct or class has default property value   ,3
+19,8,Binglin.MappingAce.md,### Model -> JSON,3
+19,9,Binglin.MappingAce.md,## Installation,"3,4"
+19,10,Binglin.MappingAce.md,### Installation with CocoaPods,"-,3"
+19,11,Binglin.MappingAce.md,#### Podfile,3
+19,12,Binglin.MappingAce.md,### Installation with [Carthage](https://github.com/Carthage/Carthage),3
+20,1,blackboard.LABjs.md,# LABjs (Loading And Blocking JavaScript),"1,3"
+20,2,blackboard.LABjs.md,## Build Process,3
+20,3,blackboard.LABjs.md,## Configuration,3
+20,4,blackboard.LABjs.md,## Protocol-relative URLs,3
+20,5,blackboard.LABjs.md,## New in v2.0,"3,6"
+21,1,boazber1.chat-app.md,# ChatApp,4
+21,2,boazber1.chat-app.md,## Development server,3
+21,3,boazber1.chat-app.md,## Code scaffolding,3
+21,4,boazber1.chat-app.md,## Build,3
+21,5,boazber1.chat-app.md,## Running unit tests,3
+21,6,boazber1.chat-app.md,## Running end-to-end tests,3
+21,7,boazber1.chat-app.md,## Further help,6
+22,1,brandonJY.Thinny.md,#Thinny - The Infinite's Nymphet,3
+22,2,brandonJY.Thinny.md,###Attention,"6,7"
+22,3,brandonJY.Thinny.md,##Installation,3
+22,4,brandonJY.Thinny.md,##About,1
+22,5,brandonJY.Thinny.md,##Demo,3
+22,6,brandonJY.Thinny.md,##More information,6
+22,7,brandonJY.Thinny.md,##Reporting issues,"6,7"
+23,1,caivery.GiraffePlayer.md,# GiraffePlayer,3
+23,2,caivery.GiraffePlayer.md,# features,1
+23,3,caivery.GiraffePlayer.md,# how to import library,3
+23,4,caivery.GiraffePlayer.md,## notice:,6
+23,5,caivery.GiraffePlayer.md,# How to use ([example code](https://github.com/tcking/GiraffePlayer/blob/master/app/src/main/java/tcking/github/com/giraffeplayer/example/MainActivity.java)),3
+23,6,caivery.GiraffePlayer.md,## case 1: only want to play a video fullscreen,3
+23,7,caivery.GiraffePlayer.md,## case 2: embed a player in a layout,
+23,8,caivery.GiraffePlayer.md,### step 1: include video layout in your layout xml file,3
+23,9,caivery.GiraffePlayer.md,### step 2: new player and call `play`,3
+23,10,caivery.GiraffePlayer.md,# API:,6
+23,11,caivery.GiraffePlayer.md,# screencap,3
+24,1,cancan101.react-native-push-notification.md,# React Native Push Notifications [![npm version](https://badge.fury.io/js/react-native-push-notification.svg)](http://badge.fury.io/js/react-native-push-notification),"1,3"
+24,2,cancan101.react-native-push-notification.md,## Installation,3
+24,3,cancan101.react-native-push-notification.md,## iOS Installation,-
+24,4,cancan101.react-native-push-notification.md,## Android Installation,3
+24,5,cancan101.react-native-push-notification.md,## Usage,3
+24,6,cancan101.react-native-push-notification.md,## Handling Notifications,"3,6"
+24,7,cancan101.react-native-push-notification.md,## Local and Schedule Notifications,3
+24,8,cancan101.react-native-push-notification.md,## Sending Notification Data From Server,6
+24,9,cancan101.react-native-push-notification.md,## iOS Only Methods,"3,6"
+24,10,cancan101.react-native-push-notification.md,### TODO,4
+25,1,cgravier.chef-logstash.md,"# <a name=""title""></a> chef-logstash [![Build Status](https://secure.travis-ci.org/lusis/chef-logstash.png?branch=master)](http://travis-ci.org/lusis/chef-logstash)",3
+25,2,cgravier.chef-logstash.md,# Description,1
+25,3,cgravier.chef-logstash.md,# Requirements,3
+25,4,cgravier.chef-logstash.md,# Attributes,3
+25,5,cgravier.chef-logstash.md,## Default,3
+25,6,cgravier.chef-logstash.md,## Agent,3
+25,7,cgravier.chef-logstash.md,## Server,3
+25,8,cgravier.chef-logstash.md,## Kibana,1
+25,9,cgravier.chef-logstash.md,## Beaver (alternative to Logstash Agent),"1,3"
+25,10,cgravier.chef-logstash.md,## Source,3
+25,11,cgravier.chef-logstash.md,## Index Cleaner,3
+25,12,cgravier.chef-logstash.md,# Testing,3
+25,13,cgravier.chef-logstash.md,## Vagrant,3
+25,14,cgravier.chef-logstash.md,## Strainer,"-,3"
+25,15,cgravier.chef-logstash.md,## Test-Kitchen + ServerSpec,3
+25,16,cgravier.chef-logstash.md,# Contributing,7
+25,17,cgravier.chef-logstash.md,# Usage,3
+25,18,cgravier.chef-logstash.md,## Defaults,"3,6"
+25,19,cgravier.chef-logstash.md,## Agent and Server configuration,3
+25,20,cgravier.chef-logstash.md,## Source vs. Jar install methods,3
+25,21,cgravier.chef-logstash.md,## Out of the box behaviour,3
+25,22,cgravier.chef-logstash.md,## config templates,3
+25,23,cgravier.chef-logstash.md,## Letting data drive your templates,1
+25,24,cgravier.chef-logstash.md,### Legacy,"3,6"
+25,25,cgravier.chef-logstash.md,### Conditional,3
+25,26,cgravier.chef-logstash.md,### Examples,3
+25,27,cgravier.chef-logstash.md,## Adding grok patterns,3
+25,28,cgravier.chef-logstash.md,# Vagrant,3
+25,29,cgravier.chef-logstash.md,## Requirements,3
+25,30,cgravier.chef-logstash.md,## Usage:,3
+25,31,cgravier.chef-logstash.md,# BIG WARNING,3
+25,32,cgravier.chef-logstash.md,## License and Author,5
+26,1,chaipat.bootstrap-calendar.md,# Bootstrap Calendar,1
+26,2,chaipat.bootstrap-calendar.md,### Why?,1
+26,3,chaipat.bootstrap-calendar.md,### Features,1
+26,4,chaipat.bootstrap-calendar.md,## How to use,3
+26,5,chaipat.bootstrap-calendar.md,### Install,3
+26,6,chaipat.bootstrap-calendar.md,### Quick setup,3
+26,7,chaipat.bootstrap-calendar.md,## Feed with events,3
+26,8,chaipat.bootstrap-calendar.md,### Feed URL,"3,6"
+26,9,chaipat.bootstrap-calendar.md,### Feed array,"3,6"
+26,10,chaipat.bootstrap-calendar.md,### Feed function,"3,6"
+26,11,chaipat.bootstrap-calendar.md,### PHP example,3
+26,12,chaipat.bootstrap-calendar.md,## Usage warning.,3
+26,13,chaipat.bootstrap-calendar.md,## Modal popup,"3,6"
+26,14,chaipat.bootstrap-calendar.md,### Modal content source,"3,6"
+26,15,chaipat.bootstrap-calendar.md,### Modal title,3
+27,1,cobusbernard.docker-jenkins.md,# docker-jenkins,6
+27,2,cobusbernard.docker-jenkins.md,## Usage,3
+27,3,cobusbernard.docker-jenkins.md,### Persistent Configuration,"3,6"
+27,4,cobusbernard.docker-jenkins.md,## Building,6
+27,5,cobusbernard.docker-jenkins.md,## Author,5
+27,6,cobusbernard.docker-jenkins.md,## LICENSE,5
+28,1,Codeprh.social-oauth.md,# socialoauth,-
+28,2,Codeprh.social-oauth.md,## Feature,1
+28,3,Codeprh.social-oauth.md,## Supported sites,
+28,4,Codeprh.social-oauth.md,## Contributors,5
+28,5,Codeprh.social-oauth.md,## Install,3
+28,6,Codeprh.social-oauth.md,## Example,3
+28,7,Codeprh.social-oauth.md,##### \xe5\x88?始情况，首页\xe5?\xaa有一个 login 链接,-
+28,8,Codeprh.social-oauth.md,##### 点击\xe5?\x8e，根\xe6?\xaesettings.py中的设置，显示\xe5?\xaf用的认\xe8\xaf?网站,-
+28,9,Codeprh.social-oauth.md,##### 我用人人网\xe5\xb8?\xe5?\xb7进行测试，点击\xe5?\x8e，转到人人登录认\xe8\xaf?的界\xe9?\xa2,-
+28,10,Codeprh.social-oauth.md,##### 认\xe8\xaf?完毕\xe5?\x8e，就会显示用户的\xe5??字和\xe5\xb0?头\xe5\x83?。,-
+28,11,Codeprh.social-oauth.md,## Document,"-,6"
+28,12,Codeprh.social-oauth.md,## \xe5??槽,-
+29,1,comeriven.frontend-interview.md,#\xe5\x89?端工作\xe9?\xa2试问题,-
+29,2,comeriven.frontend-interview.md,## <a name='toc'>目录</a>,-
+29,3,comeriven.frontend-interview.md,#### <a name='general-questions'>常\xe8\xa7?问题：</a>,-
+29,4,comeriven.frontend-interview.md,#### <a name='html-questions'>HTML 相关问题：</a>,-
+29,5,comeriven.frontend-interview.md,#### <a name='css-questions'>CSS 相关问题：</a>,-
+29,6,comeriven.frontend-interview.md,#### <a name='js-questions'>JS 相关问题：</a>,-
+29,7,comeriven.frontend-interview.md,#### <a name='testing-questions'>测试相关问题：</a>,-
+29,8,comeriven.frontend-interview.md,#### <a name='performance-questions'>效能相关问题：</a>,-
+29,9,comeriven.frontend-interview.md,#### <a name='network-questions'>网络相关问题：</a>,-
+29,10,comeriven.frontend-interview.md,#### <a name='coding-questions'>代\xe7\xa0?相关的问题：</a>,-
+29,11,comeriven.frontend-interview.md,#### <a name='fun-questions'>趣味问题：</a>,-
+29,12,comeriven.frontend-interview.md,#### <a name='react-questions'>React问题</a>,-
+30,1,conversica-brandont.ansible-elasticsearch.md,# Ansible Playbook for Elasticsearch,"1,3"
+30,2,conversica-brandont.ansible-elasticsearch.md,## Features,"1,5,6"
+30,3,conversica-brandont.ansible-elasticsearch.md,## Testing locally with Vagrant,3
+30,4,conversica-brandont.ansible-elasticsearch.md,## Running Standalone Playbook,3
+30,5,conversica-brandont.ansible-elasticsearch.md,### Copy Example Files,3
+30,6,conversica-brandont.ansible-elasticsearch.md,### Edit your my-inventory.ini,3
+30,7,conversica-brandont.ansible-elasticsearch.md,### Edit your vars/my-vars.yml,3
+30,8,conversica-brandont.ansible-elasticsearch.md,### Edit your my-playbook-main.yml,3
+30,9,conversica-brandont.ansible-elasticsearch.md,### Launch,3
+30,10,conversica-brandont.ansible-elasticsearch.md,## Enabling Added Features,1
+30,11,conversica-brandont.ansible-elasticsearch.md,### Configuring EC2,3
+30,12,conversica-brandont.ansible-elasticsearch.md,### Installing plugins,3
+30,13,conversica-brandont.ansible-elasticsearch.md,### Installing Custom JARs,3
+30,14,conversica-brandont.ansible-elasticsearch.md,### Configuring Thread Pools,3
+30,15,conversica-brandont.ansible-elasticsearch.md,### Enabling Sematext SPM,3
+30,16,conversica-brandont.ansible-elasticsearch.md,### Configuring Marvel,3
+30,17,conversica-brandont.ansible-elasticsearch.md,## Disable Java installation,3
+30,18,conversica-brandont.ansible-elasticsearch.md,## Include role in a larger playbook,-
+30,19,conversica-brandont.ansible-elasticsearch.md,### Add this role as a git submodule,-
+30,20,conversica-brandont.ansible-elasticsearch.md,### Include this playbook as a role in your master playbook,3
+30,21,conversica-brandont.ansible-elasticsearch.md,"# Issues, requests, contributions",7
+30,22,conversica-brandont.ansible-elasticsearch.md,# Dependencies,"-,3"
+30,23,conversica-brandont.ansible-elasticsearch.md,# License,5
+30,24,conversica-brandont.ansible-elasticsearch.md,# Author Information,"5,6"
+31,1,corestack-cookbooks.database.md,# Database Cookbook,"1,3"
+31,2,corestack-cookbooks.database.md,## Requirements,3
+31,3,corestack-cookbooks.database.md,### Platforms,3
+31,4,corestack-cookbooks.database.md,### Cookbooks,3
+31,5,corestack-cookbooks.database.md,## Resources/Providers,3
+31,6,corestack-cookbooks.database.md,### database,1
+31,7,corestack-cookbooks.database.md,#### Actions,3
+31,8,corestack-cookbooks.database.md,#### Attribute Parameters,3
+31,9,corestack-cookbooks.database.md,#### Providers,"1,3"
+31,10,corestack-cookbooks.database.md,#### Examples,3
+31,11,corestack-cookbooks.database.md,### database_user,3
+31,12,corestack-cookbooks.database.md,#### Actions,"-,3"
+31,13,corestack-cookbooks.database.md,#### Attribute Parameters,3
+31,14,corestack-cookbooks.database.md,### Providers,"-,1,3"
+31,15,corestack-cookbooks.database.md,### Examples,3
+31,16,corestack-cookbooks.database.md,#### Providers,"-,1,3"
+31,17,corestack-cookbooks.database.md,#### Examples,3
+31,18,corestack-cookbooks.database.md,## Recipes,1
+31,19,corestack-cookbooks.database.md,### ebs_volume,3
+31,20,corestack-cookbooks.database.md,### master,3
+31,21,corestack-cookbooks.database.md,### slave,3
+31,22,corestack-cookbooks.database.md,### snapshot,"-,3"
+31,23,corestack-cookbooks.database.md,## Deprecated Recipes,3
+31,24,corestack-cookbooks.database.md,### ebs_backup,
+31,25,corestack-cookbooks.database.md,## Data Bags,3
+31,26,corestack-cookbooks.database.md,## Usage,3
+31,27,corestack-cookbooks.database.md,## License,5
+32,1,craftfortress.tinder_pro.md,# Tinder Pro,
+32,2,craftfortress.tinder_pro.md,## Installation,3
+32,3,craftfortress.tinder_pro.md,## Getting the Facebook OAUTH Tokens,3
+32,4,craftfortress.tinder_pro.md,## Usage,3
+32,5,craftfortress.tinder_pro.md,###Authenticating,"3,6"
+32,6,craftfortress.tinder_pro.md,###Interacting with Users,"3,6"
+32,7,craftfortress.tinder_pro.md,###Updating preferences,6
+32,8,craftfortress.tinder_pro.md,## Credits,5
+33,1,ctrl-f5.ctrl-common.md,# Ctrl Common,"1,6"
+33,2,ctrl-f5.ctrl-common.md,## What's inside?,1
+33,3,ctrl-f5.ctrl-common.md,## Symfony Configuration,3
+33,4,ctrl-f5.ctrl-common.md,## Documentation,6
+34,1,dak180.vienna.md,## Installing,"3,6"
+34,2,dak180.vienna.md,## Getting support,"5,6"
+34,3,dak180.vienna.md,## Reporting an issue,6
+34,4,dak180.vienna.md,## Contributing,7
+34,5,dak180.vienna.md,### Localizing and translating ###,6
+34,6,dak180.vienna.md,### Writing custom styles,"1,3"
+34,7,dak180.vienna.md,### Writing plugins,3
+34,8,dak180.vienna.md,### Writing code,3
+34,9,dak180.vienna.md,## Licensing,5
+35,1,danhyun.gradle-compass.md,# Gradle Compass plugin,1
+35,2,danhyun.gradle-compass.md,## Tasks,3
+35,3,danhyun.gradle-compass.md,### compileSass,-
+35,4,danhyun.gradle-compass.md,### watchSass,-
+35,5,danhyun.gradle-compass.md,### installCompass,3
+35,6,danhyun.gradle-compass.md,## Installation,3
+35,7,danhyun.gradle-compass.md,## Configuration,3
+35,8,danhyun.gradle-compass.md,### Configuration parameters,"3,6"
+35,9,danhyun.gradle-compass.md,#### JRuby options,3
+35,10,danhyun.gradle-compass.md,#### Paths,"-,3"
+35,11,danhyun.gradle-compass.md,#### Compilation options,3
+35,12,danhyun.gradle-compass.md,#### Command line output,-
+35,13,danhyun.gradle-compass.md,## Using with other tasks,3
+35,14,danhyun.gradle-compass.md,# Version history,4
+35,15,danhyun.gradle-compass.md,### 1.0.10,1
+35,16,danhyun.gradle-compass.md,### 1.0.9,3
+35,17,danhyun.gradle-compass.md,### 1.0.8,
+35,18,danhyun.gradle-compass.md,### 1.0.7,"3,4"
+35,19,danhyun.gradle-compass.md,### 1.0.6,1
+35,20,danhyun.gradle-compass.md,### 1.0.5,5
+35,21,danhyun.gradle-compass.md,### 1.0.4,
+36,1,danielangus.Train-a-Smartcab-to-Drive.md,# Train a Smartcab to Drive,"1,3"
+36,2,danielangus.Train-a-Smartcab-to-Drive.md,## Procedure,
+36,3,danielangus.Train-a-Smartcab-to-Drive.md,## Technologies,3
+36,4,danielangus.Train-a-Smartcab-to-Drive.md,## Challenges,6
+36,5,danielangus.Train-a-Smartcab-to-Drive.md,## Results,1
+38,1,davecahill.hyde.md,# Hyde,1
+38,2,davecahill.hyde.md,## Contents,
+38,3,davecahill.hyde.md,## Usage,3
+38,4,davecahill.hyde.md,## Options,3
+38,5,davecahill.hyde.md,### Sidebar menu,"3,6"
+38,6,davecahill.hyde.md,### Sticky sidebar content,3
+38,7,davecahill.hyde.md,### Themes,3
+38,8,davecahill.hyde.md,### Reverse layout,3
+38,9,davecahill.hyde.md,## Development,3
+38,10,davecahill.hyde.md,## Author,5
+38,11,davecahill.hyde.md,## License,5
+39,1,dbashford.mimosa-groundskeeper.md,# mimosa-groundskeeper,-
+39,2,dbashford.mimosa-groundskeeper.md,## Overview,"1,6"
+39,3,dbashford.mimosa-groundskeeper.md,## Usage,3
+39,4,dbashford.mimosa-groundskeeper.md,## Functionality,3
+39,5,dbashford.mimosa-groundskeeper.md,## Default Config,3
+40,1,dbl-x.elastic-job.md,##Elastic-Job - distributed scheduled job solution,
+40,2,dbl-x.elastic-job.md,# Release Notes,
+40,3,dbl-x.elastic-job.md,# License,5
+40,4,dbl-x.elastic-job.md,# Build Status,4
+40,5,dbl-x.elastic-job.md,##主\xe8\xa6?贡献者,-
+40,6,dbl-x.elastic-job.md,## Elastic-Job主\xe8\xa6?功能,-
+40,7,dbl-x.elastic-job.md,### 主\xe8\xa6?功能,-
+40,8,dbl-x.elastic-job.md,### 其他功能,-
+40,9,dbl-x.elastic-job.md,### \xe9?\x9e功能需求,-
+40,10,dbl-x.elastic-job.md,## 相关文档,-
+40,11,dbl-x.elastic-job.md,## Quick Start,3
+41,1,ddry.ddry-guide.md,# ddry-guide,3
+41,2,ddry.ddry-guide.md,### Prerequisites,3
+41,3,ddry.ddry-guide.md,### Getting started,3
+41,4,ddry.ddry-guide.md,### Convention over configuration spec folder structure,3
+41,5,ddry.ddry-guide.md,### Injected ddry instance,3
+41,6,ddry.ddry-guide.md,### Plain matcher,3
+41,7,ddry.ddry-guide.md,### Default matcher,3
+41,8,ddry.ddry-guide.md,### Sequences,"1,3"
+41,9,ddry.ddry-guide.md,### Sequence specs,3
+41,10,ddry.ddry-guide.md,### Specs sequences. Cross-harness x-style skipping and mass-skipping,3
+41,11,ddry.ddry-guide.md,### CoffeeScript Sublime Text snippets,"3,6"
+41,12,ddry.ddry-guide.md,### Injected target module context — `that`,
+41,13,ddry.ddry-guide.md,### Property matcher,3
+41,14,ddry.ddry-guide.md,### Cross-harness `context`,3
+41,15,ddry.ddry-guide.md,### Cross-harness `before` and `after` hooks,3
+41,16,ddry.ddry-guide.md,### Spec helper,3
+41,17,ddry.ddry-guide.md,### Deep parameterizer method — `dd.ry`,6
+42,1,dennisbot.vauxoo-applicant.md,# vauxoo_applicant,3
+43,1,denofiend.node.md,# Evented I/O for V8 javascript.,
+43,2,denofiend.node.md,### To build:,3
+43,3,denofiend.node.md,### To run the tests:,3
+43,4,denofiend.node.md,### To build the documentation:,"3,6"
+43,5,denofiend.node.md,### To read the documentation:,6
+43,6,denofiend.node.md,## Resources for Newcomers,6
+44,1,devhackillZ.MJExtension.md,# MJExtension,
+44,2,devhackillZ.MJExtension.md,## Contents,
+44,3,devhackillZ.MJExtension.md,"# <a id=""Getting_Started""></a> Getting Started\xe3\x80?开始使用】",-
+44,4,devhackillZ.MJExtension.md,"## <a id=""Features""></a> Features\xe3\x80?能\xe5?\x9a什么】","-,1"
+44,5,devhackillZ.MJExtension.md,"## <a id=""Why_MJExtension""></a> Why use MJExtension, why not use JSONModel or Mantle",
+44,6,devhackillZ.MJExtension.md,#### MJExtension is faster than JSONModel and Mantle\xe3\x80?转\xe6?\xa2速率】,-
+44,7,devhackillZ.MJExtension.md,#### MJExtension is more easy to go\xe3\x80?MJExtension更加容易使用】,-
+44,8,devhackillZ.MJExtension.md,"## <a id=""Installation""></a> Installation\xe3\x80?安装】",-
+44,9,devhackillZ.MJExtension.md,### From CocoaPods\xe3\x80?使用CocoaPods】,-
+44,10,devhackillZ.MJExtension.md,### Manually\xe3\x80?手动导入】,-
+44,11,devhackillZ.MJExtension.md,"# <a id=""Examples""></a> Examples\xe3\x80?示例】",-
+44,12,devhackillZ.MJExtension.md,"### <a id=""JSON_Model""></a> The most simple JSON -> Model\xe3\x80?最简\xe5?\x95的字典转模型】",-
+44,13,devhackillZ.MJExtension.md,"### <a id=""JSONString_Model""></a> JSONString -> Model\xe3\x80?JSON字符串转模型】",-
+44,14,devhackillZ.MJExtension.md,"### <a id=""Model_contains_model""></a> Model contains model\xe3\x80?模型中嵌套模型】",-
+44,15,devhackillZ.MJExtension.md,"### <a id=""Model_contains_model_array""></a> Model contains model-array\xe3\x80?模型中有个数组属性，数组里\xe9?\xa2\xe5?\x88\xe8\xa6?装\xe7?\x80其他模型】",-
+44,16,devhackillZ.MJExtension.md,"### <a id=""Model_name_JSON_key_mapping""></a> Model name - JSON key mapping\xe3\x80?模型中的属性\xe5??和字典中的key\xe4\xb8?相\xe5?\x8c(或者需\xe8\xa6?多级映射)】",-
+44,17,devhackillZ.MJExtension.md,"### <a id=""JSON_array_model_array""></a> JSON array -> model array\xe3\x80?将一个字典数组转\xe6\x88?模型数组】",-
+44,18,devhackillZ.MJExtension.md,"### <a id=""Model_JSON""></a> Model -> JSON\xe3\x80?将一个模型转\xe6\x88?字典】",-
+44,19,devhackillZ.MJExtension.md,"### <a id=""Model_array_JSON_array""></a> Model array -> JSON array\xe3\x80?将一个模型数组转\xe6\x88?字典数组】",-
+44,20,devhackillZ.MJExtension.md,"### <a id=""Core_Data""></a> Core Data",3
+44,21,devhackillZ.MJExtension.md,"### <a id=""Coding""></a> Coding",3
+44,22,devhackillZ.MJExtension.md,"### <a id=""Camel_underline""></a> Camel -> underline\xe3\x80?统一转\xe6?\xa2属性\xe5??（比如驼峰转下划线）】",-
+44,23,devhackillZ.MJExtension.md,"### <a id=""NSString_NSDate""></a> NSString -> NSDate, nil -> @""""\xe3\x80?过滤字典的值（比如字符串日期处\xe7?\x86为NSDate\xe3\x80?字符串nil处\xe7?\x86为@""""）】",-
+44,24,devhackillZ.MJExtension.md,"### <a id=""More_use_cases""></a> More use cases\xe3\x80?更多用法】",-
+44,25,devhackillZ.MJExtension.md,## 期待,-
+45,1,dkoppel.zephyr.md,## Disclaimer,1
+45,2,dkoppel.zephyr.md,## Installation,3
+45,3,dkoppel.zephyr.md,## API,"3,6"
+45,4,dkoppel.zephyr.md,## Contributing,7
+45,5,dkoppel.zephyr.md,## Motivation,"1,6"
+46,1,dmurawsky.microservice-exemplar.md,# Overview,1
+46,2,dmurawsky.microservice-exemplar.md,# Step 1: Set up your environment,3
+46,3,dmurawsky.microservice-exemplar.md,# Step 2: Scaffold out your microservice project,3
+46,4,dmurawsky.microservice-exemplar.md,"# Step 3: Create a REST domain, repository, resource and controller",6
+46,5,dmurawsky.microservice-exemplar.md,# Step 4: Run it locally,3
+46,6,dmurawsky.microservice-exemplar.md,# Step 5: Create a Docker image,3
+46,7,dmurawsky.microservice-exemplar.md,# Step 6: Deploy to ECS,3
+47,1,doktorshow.TLLayoutTransitioning.md,# TLLayoutTransitioning,"-,1"
+47,2,doktorshow.TLLayoutTransitioning.md,##Overview,1
+47,3,doktorshow.TLLayoutTransitioning.md,###TLTransitionLayout Class,3
+47,4,doktorshow.TLLayoutTransitioning.md,##Installation,3
+47,5,doktorshow.TLLayoutTransitioning.md,##Examples,"3,6"
+47,6,doktorshow.TLLayoutTransitioning.md,###Resize,3
+47,7,doktorshow.TLLayoutTransitioning.md,###Pinch,-
+48,1,duyle1988.PhoneGap_Audio_Watermarks.md,# PhoneGap_Audio_Watermarks,1
+48,2,duyle1988.PhoneGap_Audio_Watermarks.md,# Attribution,3
+48,3,duyle1988.PhoneGap_Audio_Watermarks.md,## Pitch Detector,
+48,4,duyle1988.PhoneGap_Audio_Watermarks.md,## Font,-
+48,5,duyle1988.PhoneGap_Audio_Watermarks.md,## Video Source,"-,6"
+48,6,duyle1988.PhoneGap_Audio_Watermarks.md,## TV Show website,6
+48,7,duyle1988.PhoneGap_Audio_Watermarks.md,## Details & Images used within the proof of concept application:,
+48,8,duyle1988.PhoneGap_Audio_Watermarks.md,### Title Image: ,6
+48,9,duyle1988.PhoneGap_Audio_Watermarks.md,### Kings Landing: ,-
+48,10,duyle1988.PhoneGap_Audio_Watermarks.md,### Winterfell: ,6
+48,11,duyle1988.PhoneGap_Audio_Watermarks.md,### The Wall/Castle Black:,
+48,12,duyle1988.PhoneGap_Audio_Watermarks.md,### Pentos:,6
+49,1,edemir.kubernetes.md,# Kubernetes,-
+49,2,edemir.kubernetes.md,## Introduction,1
+49,3,edemir.kubernetes.md,### Are you ...,6
+49,4,edemir.kubernetes.md,## Code of Conduct,7
+49,5,edemir.kubernetes.md,## Community,"1,6"
+49,6,edemir.kubernetes.md,## Contribute,7
+49,7,edemir.kubernetes.md,### Building Kubernetes for the impatient,3
+49,8,edemir.kubernetes.md,## Support,"3,6"
+50,1,eliaidi.json.md,#  JSON 教程,-
+50,2,eliaidi.json.md,## 读者,-
+50,3,eliaidi.json.md,## 预备知识,-
+50,4,eliaidi.json.md,### 1 - JSON 快速\xe5?\x82考指\xe5?\x97,-
+50,5,eliaidi.json.md,### 2 - 有用的 JSON 资\xe6\xba?,-
+50,6,eliaidi.json.md,### 3 - Java 教程,-
+51,1,EmOne.stm8flash.md,# stm8flash,"1,5,6"
+51,2,EmOne.stm8flash.md,## Synopsis,3
+51,3,EmOne.stm8flash.md,## Support table,
+52,1,ericretamero.AndroidSpringFront.md,# Android_JHipster_Basketball,6
+53,1,Eternaldream.ZYThumbnailTableView.md,# ZYThumbnailTableView  ,-
+53,2,Eternaldream.ZYThumbnailTableView.md,#####\xe5?\xaf展开型预览TableView，开放接\xe5?\xa3，完全自由定制,-
+53,3,Eternaldream.ZYThumbnailTableView.md,"#####An expandable preview TableView, custom-made all the modules completely with open API you can.  ",3
+53,4,Eternaldream.ZYThumbnailTableView.md,######Design by [Sergii Ganushchak](https://dribbble.com/shots/2261899-3D-Touch-Preview)  ,
+53,5,Eternaldream.ZYThumbnailTableView.md,"#####If you have updated Xcode 7.3 yet, please use the branch named 'Xcode7.3-Handle'.   ",4
+53,6,Eternaldream.ZYThumbnailTableView.md,#####如果已更新Xcode7.3，请下载分支Xcode7.3-Handle使用\xe5?\xb3\xe5?\xaf。  ,-
+53,7,Eternaldream.ZYThumbnailTableView.md,#英文文档,-
+53,8,Eternaldream.ZYThumbnailTableView.md,##Summary  ,
+53,9,Eternaldream.ZYThumbnailTableView.md,##CocoaPods  ,"-,3"
+53,10,Eternaldream.ZYThumbnailTableView.md,### Setting up with Carthage,3
+53,11,Eternaldream.ZYThumbnailTableView.md,##Usage  ,3
+53,12,Eternaldream.ZYThumbnailTableView.md,#For Chinese,6
+53,13,Eternaldream.ZYThumbnailTableView.md,##Summary:  ,
+53,14,Eternaldream.ZYThumbnailTableView.md,##CocoaPods:  ,"-,3"
+53,15,Eternaldream.ZYThumbnailTableView.md,##Usage:  ,3
+53,16,Eternaldream.ZYThumbnailTableView.md,##profile:  ,
+53,17,Eternaldream.ZYThumbnailTableView.md,##Relation:  ,
+53,18,Eternaldream.ZYThumbnailTableView.md,##License:  ,5
+54,1,everythingblee.ttt-1-welcome-rb-ruby-intro-000.md,# Welcome Message for Tic Tac Toe,1
+54,2,everythingblee.ttt-1-welcome-rb-ruby-intro-000.md,## Overview,"1,6"
+54,3,everythingblee.ttt-1-welcome-rb-ruby-intro-000.md,## Objectives,1
+54,4,everythingblee.ttt-1-welcome-rb-ruby-intro-000.md,## Instructions,
+54,5,everythingblee.ttt-1-welcome-rb-ruby-intro-000.md,## Troubleshooting,3
+54,6,everythingblee.ttt-1-welcome-rb-ruby-intro-000.md,### 1. Try running `ruby lib/welcome.rb`,1
+54,7,everythingblee.ttt-1-welcome-rb-ruby-intro-000.md,"### 2. Make sure you're printing ""Welcome to Tic Tac Toe!"" exactly.",3
+55,1,Fairy-happy.LearningIOS.md,# LearningIOS,-
+55,2,Fairy-happy.LearningIOS.md,## 培训\xe7?\xad视频教程,-
+55,3,Fairy-happy.LearningIOS.md,## 地\xe5?\x80  |  简介,-
+55,4,Fairy-happy.LearningIOS.md,## 进阶教程,-
+55,5,Fairy-happy.LearningIOS.md,## 地\xe5?\x80  |  简介,-
+55,6,Fairy-happy.LearningIOS.md,## 推\xe8??\xe5?\x9a客\xe3\x80?微\xe5?\x9a或Github,-
+55,7,Fairy-happy.LearningIOS.md,## 地\xe5?\x80  |  简介,-
+55,8,Fairy-happy.LearningIOS.md,## 学习网站,-
+55,9,Fairy-happy.LearningIOS.md,## 地\xe5?\x80  |  简介,-
+55,10,Fairy-happy.LearningIOS.md,## 开\xe6\xba?项目,-
+55,11,Fairy-happy.LearningIOS.md,## 地\xe5?\x80  |  简介,-
+55,12,Fairy-happy.LearningIOS.md,## 微信公众\xe5?\xb7,-
+55,13,Fairy-happy.LearningIOS.md,## 更多资料,-
+55,14,Fairy-happy.LearningIOS.md,## 地\xe5?\x80  |  简介,-
+56,1,fengweijp.britecharts.md,# Britecharts,1
+56,2,fengweijp.britecharts.md,## Key Features,1
+56,3,fengweijp.britecharts.md,## Usage,3
+56,4,fengweijp.britecharts.md,## API,
+56,5,fengweijp.britecharts.md,## Installation,3
+56,6,fengweijp.britecharts.md,## Roadmap,"4,6"
+56,7,fengweijp.britecharts.md,## See Also,"-,1,6"
+56,8,fengweijp.britecharts.md,## Acknowledgments,6
+56,9,fengweijp.britecharts.md,## License,5
+57,1,ferile-github._s.md,# _s,3
+57,2,ferile-github._s.md,## Getting Started,3
+58,1,fgbreel.spigo.md,# spigo and simianviz,"1,3"
+58,2,fgbreel.spigo.md,## Migration from LAMP to NetflixOSS,"1,3"
+58,3,fgbreel.spigo.md,## LAMP Stack Architecture,1
+58,4,fgbreel.spigo.md,## Simple NetflixOSS Architecture and more complex Netflix Architecture,"1,3"
+58,5,fgbreel.spigo.md,## 100 Pirates,4
+58,6,fgbreel.spigo.md,# Benchmark result,"-,8"
+59,1,fgobbo.oo-student-scraper-cb-gh-000.md,# Object Oriented Student Scraper,1
+59,2,fgobbo.oo-student-scraper-cb-gh-000.md,## Objectives,1
+59,3,fgobbo.oo-student-scraper-cb-gh-000.md,## Overview,1
+59,4,fgobbo.oo-student-scraper-cb-gh-000.md,## Before You Begin,3
+59,5,fgobbo.oo-student-scraper-cb-gh-000.md,## Instructions,3
+59,6,fgobbo.oo-student-scraper-cb-gh-000.md,### The `Scraper` Class,
+59,7,fgobbo.oo-student-scraper-cb-gh-000.md,#### The `#scrape_index_page` Method,3
+59,8,fgobbo.oo-student-scraper-cb-gh-000.md,#### The `#scrape_profile_page` Method,"3,6"
+59,9,fgobbo.oo-student-scraper-cb-gh-000.md,### The `Student` Class,3
+59,10,fgobbo.oo-student-scraper-cb-gh-000.md,#### The `#create_from_collection(students_array)`,3
+59,11,fgobbo.oo-student-scraper-cb-gh-000.md,##### The `#initialize` Method,3
+59,12,fgobbo.oo-student-scraper-cb-gh-000.md,#### The `#add_student_attributes` Method,"3,6"
+59,13,fgobbo.oo-student-scraper-cb-gh-000.md,#### The `.all` Method,"3,8"
+59,14,fgobbo.oo-student-scraper-cb-gh-000.md,## Our Code in Action,3
+60,1,fibbarth.peerflix.md,# peerflix,3
+60,2,fibbarth.peerflix.md,## Usage,3
+60,3,fibbarth.peerflix.md,## Programmatic usage,3
+60,4,fibbarth.peerflix.md,## Chromebook users,3
+60,5,fibbarth.peerflix.md,## Chromecast,6
+60,6,fibbarth.peerflix.md,## License,5
+61,1,finalspace.leetcode.md,# leetcode,-
+61,2,finalspace.leetcode.md,# LeetCode C++ Solution,3
+61,3,finalspace.leetcode.md,###LeetCode Algorithm,
+62,1,FinleyLC.LitePal.md,# LitePal for Android  ,1
+62,2,FinleyLC.LitePal.md,## Features,1
+62,3,FinleyLC.LitePal.md,## Latest Downloads,1
+62,4,FinleyLC.LitePal.md,## Quick Setup,3
+62,5,FinleyLC.LitePal.md,#### 1. Include library,-
+62,6,FinleyLC.LitePal.md,##### Using Eclipse,3
+62,7,FinleyLC.LitePal.md,##### Using Android Studio,3
+62,8,FinleyLC.LitePal.md,#### 2. Configure litepal.xml,3
+62,9,FinleyLC.LitePal.md,#### 3. Configure LitePalApplication,3
+62,10,FinleyLC.LitePal.md,## Get Started,"3,6"
+62,11,FinleyLC.LitePal.md,#### 1. Create tables,3
+62,12,FinleyLC.LitePal.md,#### 2. Upgrade tables,3
+62,13,FinleyLC.LitePal.md,#### 3. Save data,3
+62,14,FinleyLC.LitePal.md,#### 4. Update data,3
+62,15,FinleyLC.LitePal.md,#### 5. Delete data,3
+62,16,FinleyLC.LitePal.md,#### 6. Query data,3
+62,17,FinleyLC.LitePal.md,#### 7. Multiple databases,3
+62,18,FinleyLC.LitePal.md,## Developed By,5
+62,19,FinleyLC.LitePal.md,## Sample App,3
+62,20,FinleyLC.LitePal.md,## Bugs Report,5
+62,21,FinleyLC.LitePal.md,## Change logs,
+62,22,FinleyLC.LitePal.md,### 1.4.1,4
+62,23,FinleyLC.LitePal.md,### 1.4.0,
+62,24,FinleyLC.LitePal.md,### 1.3.2,3
+62,25,FinleyLC.LitePal.md,### 1.3.1,1
+62,26,FinleyLC.LitePal.md,### 1.3.0,3
+62,27,FinleyLC.LitePal.md,## License,5
+64,1,georgevanzs.ruby-object-attributes-lab-ruby-intro-000.md,# Ruby Object Attributes Lab,"1,3"
+64,2,georgevanzs.ruby-object-attributes-lab-ruby-intro-000.md,## Objectives,1
+64,3,georgevanzs.ruby-object-attributes-lab-ruby-intro-000.md,## Overview,"1,3"
+64,4,georgevanzs.ruby-object-attributes-lab-ruby-intro-000.md,## Instructions,3
+64,5,georgevanzs.ruby-object-attributes-lab-ruby-intro-000.md,## `Dog` and `lib/dog.rb`,-
+64,6,georgevanzs.ruby-object-attributes-lab-ruby-intro-000.md,### Give a Dog a Name,3
+64,7,georgevanzs.ruby-object-attributes-lab-ruby-intro-000.md,### Give a Dog a Breed,3
+64,8,georgevanzs.ruby-object-attributes-lab-ruby-intro-000.md,## `Person` and `lib/person.rb`,-
+64,9,georgevanzs.ruby-object-attributes-lab-ruby-intro-000.md,### Give a Person a Name,3
+64,10,georgevanzs.ruby-object-attributes-lab-ruby-intro-000.md,### Give a Person a Job,
+65,1,gitter-badger.lorawan-server.md,# Compact server for private LoRa networks,1
+65,2,gitter-badger.lorawan-server.md,## Documentation,3
+65,3,gitter-badger.lorawan-server.md,### Usage,3
+65,4,gitter-badger.lorawan-server.md,### Integration,3
+65,5,gitter-badger.lorawan-server.md,### Development,3
+65,6,gitter-badger.lorawan-server.md,## Copyright and Licensing,5
+65,7,gitter-badger.lorawan-server.md,### Sponsors,
+66,1,goulgold.wget.md,# wget,3
+66,2,goulgold.wget.md,## Exceptions,3
+66,3,goulgold.wget.md,## Example Direct Download,3
+66,4,goulgold.wget.md,## Application Managed Multithread Download,3
+66,5,goulgold.wget.md,## Cetral Maven Repo,3
+67,1,Gw1280.node.md,# Table of Contents,"1,5,7"
+67,2,Gw1280.node.md,## Resources for Newcomers,6
+67,3,Gw1280.node.md,### Official Resources,6
+67,4,Gw1280.node.md,### Unofficial Resources,6
+67,5,Gw1280.node.md,## Release Types,4
+67,6,Gw1280.node.md,## Download,"3,6"
+67,7,Gw1280.node.md,#### Current and LTS Releases,
+67,8,Gw1280.node.md,#### Nightly Releases,3
+67,9,Gw1280.node.md,#### API Documentation,6
+67,10,Gw1280.node.md,### Verifying Binaries,3
+67,11,Gw1280.node.md,## Building Node.js,3
+67,12,Gw1280.node.md,## Security,6
+67,13,Gw1280.node.md,## Current Project Team Members,5
+67,14,Gw1280.node.md,### CTC (Core Technical Committee),5
+67,15,Gw1280.node.md,### CTC Emeriti,5
+67,16,Gw1280.node.md,### Collaborators,5
+67,17,Gw1280.node.md,### Release Team,"4,5"
+67,18,Gw1280.node.md,### Working Groups,1
+68,1,heyhey482.wiki.md,"## [JavaScript](javascript.md), [Java](java.md), [Andorid](andorid.md), [CSS](css.md), [Python](pyton.md), [Nodejs](nodejs.md).",1
+68,2,heyhey482.wiki.md,## 综\xe5?\x88资\xe6\xba?,-
+68,3,heyhey482.wiki.md,### 资\xe6\xba?链接汇集,-
+68,4,heyhey482.wiki.md,### 电\xe5\xad?书,-
+68,5,heyhey482.wiki.md,### 优秀网站,-
+68,6,heyhey482.wiki.md,### 工具,-
+68,7,heyhey482.wiki.md,### API && 文档 && 规范,-
+70,1,iampaul83.iampaul83.github.io.md,# jekyll-iampaul83-theme,3
+70,2,iampaul83.iampaul83.github.io.md,## Installation,3
+70,3,iampaul83.iampaul83.github.io.md,## Usage,3
+70,4,iampaul83.iampaul83.github.io.md,## Contributing,7
+70,5,iampaul83.iampaul83.github.io.md,## Development,3
+70,6,iampaul83.iampaul83.github.io.md,## License,5
+71,1,iceyko.jekyllblog.github.io.md,#Hux Blog,"1,6"
+71,2,iceyko.jekyllblog.github.io.md,###[View Live Hux Blog &rarr;](https://huangxuan.me),"1,3"
+71,3,iceyko.jekyllblog.github.io.md,## Boilerplate (beta),3
+71,4,iceyko.jekyllblog.github.io.md,## Porting ,"-,1,6"
+71,5,iceyko.jekyllblog.github.io.md,## Translation,6
+71,6,iceyko.jekyllblog.github.io.md,## Features,"1,6"
+71,7,iceyko.jekyllblog.github.io.md,##### New Feature (V1.5.2),1
+71,8,iceyko.jekyllblog.github.io.md,##### New Feature (V1.5.1),5
+71,9,iceyko.jekyllblog.github.io.md,##### New Feature (V1.5),1
+71,10,iceyko.jekyllblog.github.io.md,##### New Feature (V1.4),1
+71,11,iceyko.jekyllblog.github.io.md,##### New Feature (V1.3.1),6
+71,12,iceyko.jekyllblog.github.io.md,##### New Feature (V1.3),1
+71,13,iceyko.jekyllblog.github.io.md,##### New Feature (V1.2),1
+71,14,iceyko.jekyllblog.github.io.md,##### New Feature (V1.1),1
+71,15,iceyko.jekyllblog.github.io.md,##### V1.0,
+71,16,iceyko.jekyllblog.github.io.md,## Support,5
+71,17,iceyko.jekyllblog.github.io.md,## Document,6
+71,18,iceyko.jekyllblog.github.io.md,#### Environment,3
+71,19,iceyko.jekyllblog.github.io.md,#### Get Started,"3,6"
+71,20,iceyko.jekyllblog.github.io.md,#### Write Posts,3
+71,21,iceyko.jekyllblog.github.io.md,#### SideBar,"3,6"
+71,22,iceyko.jekyllblog.github.io.md,#### Mini About Me,"1,6"
+71,23,iceyko.jekyllblog.github.io.md,#### Featured Tags,1
+71,24,iceyko.jekyllblog.github.io.md,#### Friends,"3,6"
+71,25,iceyko.jekyllblog.github.io.md,#### Keynote Layout,3
+71,26,iceyko.jekyllblog.github.io.md,#### Comment,3
+71,27,iceyko.jekyllblog.github.io.md,#### Analytics,"3,6"
+71,28,iceyko.jekyllblog.github.io.md,#### Customization,3
+71,29,iceyko.jekyllblog.github.io.md,#### Header Image,
+71,30,iceyko.jekyllblog.github.io.md,#### SEO Title,6
+71,31,iceyko.jekyllblog.github.io.md,#### Page Build Warning,3
+71,32,iceyko.jekyllblog.github.io.md,## License,5
+72,1,ignacioaraya1995.Syllabus.md,# IIC2233 - Programación Avanzada,"-,4"
+72,2,ignacioaraya1995.Syllabus.md,## Evaluación,-
+72,3,ignacioaraya1995.Syllabus.md,# Foro,
+72,4,ignacioaraya1995.Syllabus.md,# Semestres Anteriores,"-,6"
+72,5,ignacioaraya1995.Syllabus.md,# Otros,-
+73,1,ikeike443.rails.md,# レイルズ\xe3?\xb8よ\xe3?\x86\xe3?\x93\xe3??,1
+73,2,ikeike443.rails.md,## Getting Started,"3,6"
+73,3,ikeike443.rails.md,## Contributing,7
+73,4,ikeike443.rails.md,## Code Status,4
+73,5,ikeike443.rails.md,## License,5
+74,1,iStefo.ghostbuster.md,# Ghostbuster,
+74,2,iStefo.ghostbuster.md,## Installation,3
+74,3,iStefo.ghostbuster.md,## Usage,3
+74,4,iStefo.ghostbuster.md,### Standalone,3
+74,5,iStefo.ghostbuster.md,### Rake,3
+74,6,iStefo.ghostbuster.md,### Configuration via Ghostfile,3
+74,7,iStefo.ghostbuster.md,### Output,3
+74,8,iStefo.ghostbuster.md,## Page Controls,3
+74,9,iStefo.ghostbuster.md,### get,"3,6"
+74,10,iStefo.ghostbuster.md,### click,3
+74,11,iStefo.ghostbuster.md,### clickFollow,3
+74,12,iStefo.ghostbuster.md,### input,3
+74,13,iStefo.ghostbuster.md,### select,6
+74,14,iStefo.ghostbuster.md,### wait,"-,6,8"
+74,15,iStefo.ghostbuster.md,## Assertions,3
+74,16,iStefo.ghostbuster.md,### assertFirst,"3,6"
+74,17,iStefo.ghostbuster.md,### assertAll,6
+74,18,iStefo.ghostbuster.md,### assertLocation,1
+74,19,iStefo.ghostbuster.md,### refuteLocation,3
+74,20,iStefo.ghostbuster.md,### assertCount,"3,6"
+74,21,iStefo.ghostbuster.md,### assertCountAndAll,"3,6"
+74,22,iStefo.ghostbuster.md,### assertFunction,3
+74,23,iStefo.ghostbuster.md,## Before and After,3
+75,1,j-rivero.taskmapper.md,# Taskmapper,1
+75,2,j-rivero.taskmapper.md,## Installation,"1,3"
+75,3,j-rivero.taskmapper.md,### Finding and installing a provider,3
+75,4,j-rivero.taskmapper.md,## Usage,3
+75,5,j-rivero.taskmapper.md,### Grabbing a project,3
+75,6,j-rivero.taskmapper.md,### Creating a ticket,1
+75,7,j-rivero.taskmapper.md,### Finding tickets,3
+75,8,j-rivero.taskmapper.md,### Changing ticket attributes,4
+75,9,j-rivero.taskmapper.md,### Closing a ticket,
+75,10,j-rivero.taskmapper.md,## Support,3
+75,11,j-rivero.taskmapper.md,### Pivotal Tracker,3
+75,12,j-rivero.taskmapper.md,### Lighthouse,3
+75,13,j-rivero.taskmapper.md,### Basecamp,3
+75,14,j-rivero.taskmapper.md,### Github,3
+75,15,j-rivero.taskmapper.md,### Unfuddle,3
+75,16,j-rivero.taskmapper.md,### Kanbanpad,3
+75,17,j-rivero.taskmapper.md,### Redmine,3
+75,18,j-rivero.taskmapper.md,### Trac,3
+75,19,j-rivero.taskmapper.md,### Bugzilla,3
+75,20,j-rivero.taskmapper.md,## Creating a provider,
+75,21,j-rivero.taskmapper.md,### Create the Taskmapper provider,"1,3"
+75,22,j-rivero.taskmapper.md,### Release it,
+75,23,j-rivero.taskmapper.md,## Note on Patches/Pull Requests,"3,7"
+75,24,j-rivero.taskmapper.md,## Copyright,5
+76,1,JackyShen2014.Android-Mqtt.md,# DEPRECATED,3
+76,2,JackyShen2014.Android-Mqtt.md,## Setup,3
+76,3,JackyShen2014.Android-Mqtt.md,## Simple Example,3
+76,4,JackyShen2014.Android-Mqtt.md,## License,5
+77,1,Jakobo.device-type.nest.md,# Nest Device Type,6
+77,2,Jakobo.device-type.nest.md,## Installation,"3,6"
+78,1,JangoRaspberryPi.torchnet.md,# torchnet,1
+78,2,JangoRaspberryPi.torchnet.md,## Installation,3
+78,3,JangoRaspberryPi.torchnet.md,## Documentation,3
+78,4,JangoRaspberryPi.torchnet.md,### tnt.Dataset(),"1,3"
+78,5,JangoRaspberryPi.torchnet.md,### tnt.utils,"1,3"
+78,6,JangoRaspberryPi.torchnet.md,#### tnt.utils.table.clone(table),6
+78,7,JangoRaspberryPi.torchnet.md,"#### tnt.utils.table.merge(dst, src)","3,6"
+78,8,JangoRaspberryPi.torchnet.md,"#### tnt.utils.table.foreach(tbl, closure[, recursive])",3
+78,9,JangoRaspberryPi.torchnet.md,#### tnt.utils.table.canmergetensor(tbl),6
+78,10,JangoRaspberryPi.torchnet.md,#### tnt.utils.table.mergetensor(tbl),3
+78,11,JangoRaspberryPi.torchnet.md,### tnt.transform,1
+78,12,JangoRaspberryPi.torchnet.md,#### transform.identity(...),3
+78,13,JangoRaspberryPi.torchnet.md,#### transform.compose(transforms),3
+78,14,JangoRaspberryPi.torchnet.md,#### transform.merge(transforms),3
+78,15,JangoRaspberryPi.torchnet.md,#### transform.tablenew(),3
+78,16,JangoRaspberryPi.torchnet.md,#### transform.tableapply(transform),3
+78,17,JangoRaspberryPi.torchnet.md,#### transform.tablemergekeys(),3
+78,18,JangoRaspberryPi.torchnet.md,#### transform.makebatch([merge]),3
+78,19,JangoRaspberryPi.torchnet.md,#### transform.randperm(size),3
+78,20,JangoRaspberryPi.torchnet.md,#### transform.normalize([threshold]),3
+78,21,JangoRaspberryPi.torchnet.md,"#### tnt.ListDataset(self, list, load[, path])",3
+78,22,JangoRaspberryPi.torchnet.md,"#### tnt.ListDataset(self, filename, load[, maxload][, path])",3
+78,23,JangoRaspberryPi.torchnet.md,"#### tnt.TableDataset(self, data)","-,3"
+78,24,JangoRaspberryPi.torchnet.md,"#### tnt.IndexedDataset(self, fields[, path][, maxload][, mmap][, mmapidx][, standalone])","-,3"
+78,25,JangoRaspberryPi.torchnet.md,"##### tnt.IndexedDatasetWriter(self, indexfilename, datafilename, type)","-,3"
+78,26,JangoRaspberryPi.torchnet.md,"##### tnt.IndexedDatasetWriter(self, indexfilename, datafilename)","-,3"
+78,27,JangoRaspberryPi.torchnet.md,"###### tnt.IndexedDatasetWriter.add(self, tensor)",-
+78,28,JangoRaspberryPi.torchnet.md,"###### tnt.IndexedDatasetWriter.add(self, filename)",-
+78,29,JangoRaspberryPi.torchnet.md,"###### tnt.IndexedDatasetWriter.add(self, table)",-
+78,30,JangoRaspberryPi.torchnet.md,###### tnt.IndexedDatasetWriter.add(self),"-,3"
+78,31,JangoRaspberryPi.torchnet.md,"##### tnt.IndexedDatasetReader(self, indexfilename, datafilename[, mmap][, mmapidx])","-,3"
+78,32,JangoRaspberryPi.torchnet.md,###### tnt.IndexedDatasetReader.size(self),"-,3"
+78,33,JangoRaspberryPi.torchnet.md,"###### tnt.IndexedDatasetReader.get(self, index)","-,3"
+78,34,JangoRaspberryPi.torchnet.md,"#### tnt.TransformDataset(self, dataset, transform[, key])","3,8"
+78,35,JangoRaspberryPi.torchnet.md,"#### tnt.TransformDataset(self, dataset, transforms)","-,3"
+78,36,JangoRaspberryPi.torchnet.md,"#### tnt.BatchDataset(self, dataset, batchsize[, perm][, merge][, policy][, filter])","-,3"
+78,37,JangoRaspberryPi.torchnet.md,"#### tnt.CoroutineBatchDataset(self, dataset, batchsize[, perm][, merge][, policy][, filter])","-,3"
+78,38,JangoRaspberryPi.torchnet.md,"#### tnt.ConcatDataset(self, datasets)",-
+78,39,JangoRaspberryPi.torchnet.md,"#### tnt.ResampleDataset(self, dataset[, sampler][, size])","-,3"
+78,40,JangoRaspberryPi.torchnet.md,"#### tnt.ShuffleDataset(self, dataset[, size][, replacement])","-,3"
+78,41,JangoRaspberryPi.torchnet.md,##### tnt.ShuffleDataset.resample(self),"-,3"
+78,42,JangoRaspberryPi.torchnet.md,"#### tnt.SplitDataset(self, dataset, partitions[, initialpartition])","-,3"
+78,43,JangoRaspberryPi.torchnet.md,"##### tnt.SplitDataset.select(self, partition)","-,8"
+78,44,JangoRaspberryPi.torchnet.md,### Dataset Iterators,"-,3"
+78,45,JangoRaspberryPi.torchnet.md,"#### tnt.DatasetIterator(self, dataset[, perm][, filter][, transform])","-,3"
+78,46,JangoRaspberryPi.torchnet.md,"#### tnt.DatasetIterator.exec(tnt.DatasetIterator, name, ...)","-,3,6"
+78,47,JangoRaspberryPi.torchnet.md,"#### tnt.ParallelDatasetIterator(self[, init], closure, nthread[, perm][, filter][, transform][, ordered])","-,3"
+78,48,JangoRaspberryPi.torchnet.md,"#### tnt.ParallelDatasetIterator.execSingle(tnt.DatasetIterator, name, ...)",-
+78,49,JangoRaspberryPi.torchnet.md,"#### tnt.ParallelDatasetIterator.exec(tnt.DatasetIterator, name, ...)","-,3,6"
+78,50,JangoRaspberryPi.torchnet.md,### tnt.Engine,"3,6"
+78,51,JangoRaspberryPi.torchnet.md,### tnt.SGDEngine,-
+78,52,JangoRaspberryPi.torchnet.md,### tnt.OptimEngine,-
+78,53,JangoRaspberryPi.torchnet.md,### tnt.Meter,"-,3"
+78,54,JangoRaspberryPi.torchnet.md,#### tnt.APMeter(self),"-,3"
+78,55,JangoRaspberryPi.torchnet.md,#### tnt.AverageValueMeter(self),"-,3"
+78,56,JangoRaspberryPi.torchnet.md,#### tnt.AUCMeter(self),"-,3"
+78,57,JangoRaspberryPi.torchnet.md,"#### tnt.ConfusionMeter(self, k[, normalized])","-,3"
+78,58,JangoRaspberryPi.torchnet.md,#### tnt.mAPMeter(self),"-,3"
+78,59,JangoRaspberryPi.torchnet.md,"#### tnt.MovingAverageValueMeter(self, windowsize)","-,3"
+78,60,JangoRaspberryPi.torchnet.md,"#### tnt.MultiLabelConfusionMeter(self, k[, normalized])","-,3"
+78,61,JangoRaspberryPi.torchnet.md,"#### tnt.ClassErrorMeter(self[, topk][, accuracy])","-,3"
+78,62,JangoRaspberryPi.torchnet.md,"#### tnt.TimeMeter(self[, unit])","-,3"
+78,63,JangoRaspberryPi.torchnet.md,"#### tnt.PrecisionAtKMeter(self[, topk][, dim][, online])","-,3"
+78,64,JangoRaspberryPi.torchnet.md,"#### tnt.RecallMeter(self[, threshold][, perclass])","-,3"
+78,65,JangoRaspberryPi.torchnet.md,"#### tnt.PrecisionMeter(self[, threshold][, perclass])","-,3"
+78,66,JangoRaspberryPi.torchnet.md,"#### tnt.NDCGMeter(self[, K])","-,3"
+78,67,JangoRaspberryPi.torchnet.md,### tnt.Log,4
+78,68,JangoRaspberryPi.torchnet.md,"#### tnt.Log(self, keys[, onClose][, onFlush][, onGet][, onSet])",-
+78,69,JangoRaspberryPi.torchnet.md,"#### tnt.Log:status(self[, message][, time])","-,4"
+78,70,JangoRaspberryPi.torchnet.md,"#### tnt.Log:set(self, keys)",-
+78,71,JangoRaspberryPi.torchnet.md,"#### tnt.Log:get(self, key)","-,3"
+78,72,JangoRaspberryPi.torchnet.md,#### tnt.Log:flush(self),-
+78,73,JangoRaspberryPi.torchnet.md,#### tnt.Log:close(self),"-,3"
+78,74,JangoRaspberryPi.torchnet.md,"#### tnt.Log:attach(self, event, closures)",-
+79,1,janwo.lightcontactform.md,# Light Contact Form,
+79,2,janwo.lightcontactform.md,## Getting Started,3
+79,3,janwo.lightcontactform.md,## Customize widget,3
+79,4,janwo.lightcontactform.md,### data-name,3
+79,5,janwo.lightcontactform.md,### data-mail,3
+79,6,janwo.lightcontactform.md,### data-snippet,3
+79,7,janwo.lightcontactform.md,### data-snippet-order,3
+80,1,javadbaloo.Telegram-LED-Alerter.md,# Telegram LED Alerter,3
+80,2,javadbaloo.Telegram-LED-Alerter.md,## Requirements,3
+80,3,javadbaloo.Telegram-LED-Alerter.md,## How to use,3
+80,4,javadbaloo.Telegram-LED-Alerter.md,## Script Arguments,3
+80,5,javadbaloo.Telegram-LED-Alerter.md,## Example,3
+81,1,jeroenvisser101.ueberauth.md,# Überauth,1
+81,2,jeroenvisser101.ueberauth.md,## Strategies,
+81,3,jeroenvisser101.ueberauth.md,## Request Phase,
+81,4,jeroenvisser101.ueberauth.md,## Callback Phase,
+81,5,jeroenvisser101.ueberauth.md,## Setup,3
+81,6,jeroenvisser101.ueberauth.md,### Add the dependency,3
+81,7,jeroenvisser101.ueberauth.md,### Fetch the dependencies,"-,3"
+81,8,jeroenvisser101.ueberauth.md,## Configuring providers,3
+81,9,jeroenvisser101.ueberauth.md,## Customizing Paths,3
+81,10,jeroenvisser101.ueberauth.md,## HTTP Methods,"3,6"
+81,11,jeroenvisser101.ueberauth.md,## Strategy Options,
+81,12,jeroenvisser101.ueberauth.md,## License,5
+82,1,jessejanderson.30-days-of-elixir.md,# 30 Days of Elixir,"1,3"
+82,2,jessejanderson.30-days-of-elixir.md,### You have to start somewhere.,1
+82,3,jessejanderson.30-days-of-elixir.md,### Learning is a Process.,"1,3"
+82,4,jessejanderson.30-days-of-elixir.md,"### So, do you Sudoku?",
+82,5,jessejanderson.30-days-of-elixir.md,"### Spades, cuz they look like little shovels!",3
+82,6,jessejanderson.30-days-of-elixir.md,"### Tease your brain, but don't be a bully.",1
+82,7,jessejanderson.30-days-of-elixir.md,"### OTP, hey you know me!",
+82,8,jessejanderson.30-days-of-elixir.md,### Let's build a web...,
+82,9,jessejanderson.30-days-of-elixir.md,### What's this doing here?,
+82,10,jessejanderson.30-days-of-elixir.md,### The Rat Pack didn't have Macros.,3
+82,11,jessejanderson.30-days-of-elixir.md,### You'll never learn if you don't Trie.,
+82,12,jessejanderson.30-days-of-elixir.md,## Copyright & License,5
+83,1,jestersimpps.static-generator-for-front-end-devs.md,#Static page generator with internationalization,1
+83,2,jestersimpps.static-generator-for-front-end-devs.md,##Using the template,3
+83,3,jestersimpps.static-generator-for-front-end-devs.md,###0. Clone the repo,"-,3"
+83,4,jestersimpps.static-generator-for-front-end-devs.md,###1. Install dependencies,3
+83,5,jestersimpps.static-generator-for-front-end-devs.md,###2. Set up Google Spreadsheet file,"3,6"
+83,6,jestersimpps.static-generator-for-front-end-devs.md,###3. Add your data to the `Gruntfile.js` config file,3
+83,7,jestersimpps.static-generator-for-front-end-devs.md,###4. Development,3
+83,8,jestersimpps.static-generator-for-front-end-devs.md,###5. Build for production,3
+84,1,JF-GreatTime.vue.md,## Supporting Vue.js,"5,6"
+84,2,JF-GreatTime.vue.md,## Intro,1
+84,3,JF-GreatTime.vue.md,## Questions,6
+84,4,JF-GreatTime.vue.md,## Issues,7
+84,5,JF-GreatTime.vue.md,## Contribution,7
+84,6,JF-GreatTime.vue.md,## Changelog,4
+84,7,JF-GreatTime.vue.md,## Stay In Touch,5
+84,8,JF-GreatTime.vue.md,## License,5
+85,1,jihonrado.ProgrammingAssignment2.md,### Introduction,1
+85,2,jihonrado.ProgrammingAssignment2.md,### Example: Caching the Mean of a Vector,3
+85,3,jihonrado.ProgrammingAssignment2.md,### Assignment: Caching the Inverse of a Matrix,3
+85,4,jihonrado.ProgrammingAssignment2.md,### Grading,8
+86,1,jiobxn.shadowsocksr-csharp.md,# ShadowsocksR for Windows,"3,6"
+86,2,jiobxn.shadowsocksr-csharp.md,#### Download,3
+86,3,jiobxn.shadowsocksr-csharp.md,#### Usage,3
+86,4,jiobxn.shadowsocksr-csharp.md,### Develop,3
+86,5,jiobxn.shadowsocksr-csharp.md,#### License,5
+87,1,jjulian.r2d3.md,# r2d3,4
+87,2,jjulian.r2d3.md,## Getting Started,3
+87,3,jjulian.r2d3.md,## Limitations,6
+87,4,jjulian.r2d3.md,## Developers,5
+87,5,jjulian.r2d3.md,### D3 ###,
+87,6,jjulian.r2d3.md,### Build Commands ###,3
+88,1,jonahdc.datasharing.md,# How to share data with a statistician,
+88,2,jonahdc.datasharing.md,# What you should deliver to the statistician,1
+88,3,jonahdc.datasharing.md,### The raw data,1
+88,4,jonahdc.datasharing.md,### The tidy data set,"3,6"
+88,5,jonahdc.datasharing.md,### The code book,1
+88,6,jonahdc.datasharing.md,### How to code variables,3
+88,7,jonahdc.datasharing.md,### The instruction list/script,3
+88,8,jonahdc.datasharing.md,# What you should expect from the analyst,1
+88,9,jonahdc.datasharing.md,# Contributors,5
+89,1,jratchford.ProgrammingAssignment2.md,### Introduction,1
+89,2,jratchford.ProgrammingAssignment2.md,### Example: Caching the Mean of a Vector,3
+89,3,jratchford.ProgrammingAssignment2.md,### Assignment: Caching the Inverse of a Matrix,3
+89,4,jratchford.ProgrammingAssignment2.md,### Grading,8
+90,1,juhalehtonen.zzzzz.md,# Stalky,3
+90,2,juhalehtonen.zzzzz.md,## Installation,3
+90,3,juhalehtonen.zzzzz.md,## Download some data,3
+90,4,juhalehtonen.zzzzz.md,## Make some graphs,3
+91,1,julie17126.doc_test.md,# LKMC README file,"1,3"
+91,2,julie17126.doc_test.md,## Requirements,3
+91,3,julie17126.doc_test.md,### Python modules,3
+91,4,julie17126.doc_test.md,### Forces library,3
+91,5,julie17126.doc_test.md,### Additional programmes,3
+91,6,julie17126.doc_test.md,## Mac OS X and MacPorts Python,3
+91,7,julie17126.doc_test.md,## Installation,3
+91,8,julie17126.doc_test.md,### Build in-place,3
+91,9,julie17126.doc_test.md,### Install Python package,3
+91,10,julie17126.doc_test.md,### Tests,3
+91,11,julie17126.doc_test.md,## Building the Documentation,3
+91,12,julie17126.doc_test.md,## Nodes file,3
+91,13,julie17126.doc_test.md,## Input files,3
+91,14,julie17126.doc_test.md,## Execution,3
+91,15,julie17126.doc_test.md,## Files,3
+91,16,julie17126.doc_test.md,### Python source code,"-,3"
+91,17,julie17126.doc_test.md,### Python unit tests,"-,3"
+91,18,julie17126.doc_test.md,### Python setup script and example configuration,3
+91,19,julie17126.doc_test.md,### Main Python script for running the program,3
+91,20,julie17126.doc_test.md,### Python utility scripts,"-,3"
+91,21,julie17126.doc_test.md,### Example simulations,3
+91,22,julie17126.doc_test.md,### C source code,
+91,23,julie17126.doc_test.md,### Nauty source code,
+91,24,julie17126.doc_test.md,### LAPACK wrappers,-
+91,25,julie17126.doc_test.md,### This file and the license,5
+91,26,julie17126.doc_test.md,### Files for building the documentation,3
+92,1,kalwar.threejs-normal-examples.md,# base-angular,1
+92,2,kalwar.threejs-normal-examples.md,## Getting started,3
+92,3,kalwar.threejs-normal-examples.md,## Testing,3
+92,4,kalwar.threejs-normal-examples.md,### Unit Testing w/ Karma,3
+92,5,kalwar.threejs-normal-examples.md,### End to End Testing w/ Protractor,3
+92,6,kalwar.threejs-normal-examples.md,## Code Standards,"-,3"
+92,7,kalwar.threejs-normal-examples.md,### Sublime Settings,3
+92,8,kalwar.threejs-normal-examples.md,### Resources,6
+93,1,kevinjo.google-shopping-product-feed.md,#Google Shopping Product Feed,1
+93,2,kevinjo.google-shopping-product-feed.md,##Installation,3
+93,3,kevinjo.google-shopping-product-feed.md,###Composer (.json),3
+93,4,kevinjo.google-shopping-product-feed.md,###Composer (Command Line),3
+93,5,kevinjo.google-shopping-product-feed.md,###Standard Installation,3
+93,6,kevinjo.google-shopping-product-feed.md,##Usage,3
+93,7,kevinjo.google-shopping-product-feed.md,###Examples,"3,6"
+93,8,kevinjo.google-shopping-product-feed.md,###Overview,1
+94,1,kingsj.shopping-cart-lite.md,# shopping-cart-lite,3
+94,2,kingsj.shopping-cart-lite.md,# Files and their purpose,
+94,3,kingsj.shopping-cart-lite.md,# Third-Party libraries used,"-,6"
+94,4,kingsj.shopping-cart-lite.md,# Screenshots,"3,6,8"
+94,5,kingsj.shopping-cart-lite.md,###Index Page,3
+94,6,kingsj.shopping-cart-lite.md,###Index Page After Adding Items,3
+94,7,kingsj.shopping-cart-lite.md,###Shopping Cart,1
+94,8,kingsj.shopping-cart-lite.md,###Shopping Cart - Paying with PayPal,1
+94,9,kingsj.shopping-cart-lite.md,###Shopping Cart - Paying with Credit Card,5
+94,10,kingsj.shopping-cart-lite.md,###Checkout,6
+95,1,KodkodGates.jasmine.md,## Contributing,7
+95,2,KodkodGates.jasmine.md,## Installation,"1,3,6"
+95,3,KodkodGates.jasmine.md,## Supported environments,1
+95,4,KodkodGates.jasmine.md,## Support,"-,5,6"
+95,5,KodkodGates.jasmine.md,## Maintainers,5
+95,6,KodkodGates.jasmine.md,### Maintainers Emeritus,5
+96,1,ktashong.javascript-arithmetic-lab-bootcamp-prep-000.md,## JavaScript Arithmetic Lab,1
+96,2,ktashong.javascript-arithmetic-lab-bootcamp-prep-000.md,## Objectives,1
+96,3,ktashong.javascript-arithmetic-lab-bootcamp-prep-000.md,## Introduction,1
+96,4,ktashong.javascript-arithmetic-lab-bootcamp-prep-000.md,## Basic Math,3
+96,5,ktashong.javascript-arithmetic-lab-bootcamp-prep-000.md,## Math + Assignment,"3,6"
+96,6,ktashong.javascript-arithmetic-lab-bootcamp-prep-000.md,## Parsing Numbers,3
+96,7,ktashong.javascript-arithmetic-lab-bootcamp-prep-000.md,### `parseInt()`,3
+96,8,ktashong.javascript-arithmetic-lab-bootcamp-prep-000.md,### `parseFloat()`,3
+96,9,ktashong.javascript-arithmetic-lab-bootcamp-prep-000.md,## Resources,6
+97,1,learn-co-students.asset-preprocessors-in-rails-cb-000.md,# Asset Preprocessors in Rails,"1,6"
+97,2,learn-co-students.asset-preprocessors-in-rails-cb-000.md,## Outline,1
+97,3,learn-co-students.asset-preprocessors-in-rails-cb-000.md,## Preprocessors,1
+97,4,learn-co-students.asset-preprocessors-in-rails-cb-000.md,## Coffeescript,"3,6"
+97,5,learn-co-students.asset-preprocessors-in-rails-cb-000.md,## SASS,
+98,1,lechance.syntaxhighlighter.md,# SyntaxHighlighter [![Gittip](http://img.shields.io/gittip/alexgorbatchev.png)](https://www.gittip.com/alexgorbatchev/),3
+98,2,lechance.syntaxhighlighter.md,# Building,3
+98,3,lechance.syntaxhighlighter.md,# Testing,3
+98,4,lechance.syntaxhighlighter.md,# Please see the [dev](https://github.com/alexgorbatchev/SyntaxHighlighter/tree/dev) branch,"1,6"
+99,1,LegendaryLinux.GiphyGetter-Slack.md,# GiphyGetter-Slack,
+99,2,LegendaryLinux.GiphyGetter-Slack.md,"### So, what is it?",1
+99,3,LegendaryLinux.GiphyGetter-Slack.md,### What does it look like?,"1,3"
+99,4,LegendaryLinux.GiphyGetter-Slack.md,## You type this: | You get this:,3
+99,5,LegendaryLinux.GiphyGetter-Slack.md,### What do the buttons do?,
+99,6,LegendaryLinux.GiphyGetter-Slack.md,### How do I get it?,3
+100,1,leichunhui.Machine-Learning-and-UFLDL.md,# Machine_Learning & UFLDL,1
+100,2,leichunhui.Machine-Learning-and-UFLDL.md,### UFLDL,1
+100,3,leichunhui.Machine-Learning-and-UFLDL.md,### Machine Learning,1
+100,4,leichunhui.Machine-Learning-and-UFLDL.md,#### Instruction,3
+101,1,lhnows.code.md,# Mastering OpenCV with Practical Computer Vision Projects,
+101,2,lhnows.code.md,## Full source-code for the book.,"5,6"
+101,3,lhnows.code.md,## To build & run the projects for the book:,3
+101,4,lhnows.code.md,## Chapters:,
+101,5,lhnows.code.md,## What you need for this book:,1
+101,6,lhnows.code.md,## Screenshots:,"1,3"
+102,1,liqianzou.spring-gemfire-examples.md,# Spring Data GemFire Examples,3
+102,2,liqianzou.spring-gemfire-examples.md,# Quickstart,3
+102,3,liqianzou.spring-gemfire-examples.md,# Basic,"1,3"
+102,4,liqianzou.spring-gemfire-examples.md,# Advanced,6
+102,5,liqianzou.spring-gemfire-examples.md,# Running The Examples,3
+102,6,liqianzou.spring-gemfire-examples.md,# Running a cache server with custom configuration,3
+103,1,LJApple.LocationManager.md,# [![INTULocationManager](https://github.com/intuit/LocationManager/blob/master/Images/INTULocationManager.png?raw=true)](#)  ,1
+103,2,LJApple.LocationManager.md,## What's wrong with CLLocationManager?,1
+103,3,LJApple.LocationManager.md,## Installation,"-,3"
+103,4,LJApple.LocationManager.md,### Using [CocoaPods](http://cocoapods.org),3
+103,5,LJApple.LocationManager.md,### Using [Carthage](https://github.com/Carthage/Carthage),3
+103,6,LJApple.LocationManager.md,### Manually from GitHub,3
+103,7,LJApple.LocationManager.md,## Usage,3
+103,8,LJApple.LocationManager.md,### Requesting Permission to Access Location Services,
+103,9,LJApple.LocationManager.md,#### iOS 6 & 7,1
+103,10,LJApple.LocationManager.md,#### iOS 8,3
+103,11,LJApple.LocationManager.md,### Getting the Current Location (once),3
+103,12,LJApple.LocationManager.md,### Subscribing to Continuous Location Updates,3
+103,13,LJApple.LocationManager.md,### Subscribing to Significant Location Changes,3
+103,14,LJApple.LocationManager.md,### Managing Active Requests or Subscriptions,3
+103,15,LJApple.LocationManager.md,## Example Project,3
+103,16,LJApple.LocationManager.md,## Issues & Contributions,7
+103,17,LJApple.LocationManager.md,## License,"-,5"
+103,18,LJApple.LocationManager.md,# INTU on GitHub,6
+104,1,loganathan-s.capistrano3-delayed-job.md,# REPO MOVED,5
+104,2,loganathan-s.capistrano3-delayed-job.md,# Capistrano::DelayedJob [![Gem Version](https://badge.fury.io/rb/capistrano3-delayed-job.png)](http://badge.fury.io/rb/capistrano3-delayed-job),"-,6"
+104,3,loganathan-s.capistrano3-delayed-job.md,## Installation,3
+104,4,loganathan-s.capistrano3-delayed-job.md,## Usage,3
+104,5,loganathan-s.capistrano3-delayed-job.md,## Contributing,7
+104,6,loganathan-s.capistrano3-delayed-job.md,## Credits,5
+104,7,loganathan-s.capistrano3-delayed-job.md,## License,5
+105,1,logbon72.pinpusher.md,# PinPusher,"1,6"
+105,2,logbon72.pinpusher.md,## Installation,3
+105,3,logbon72.pinpusher.md,## Support,
+105,4,logbon72.pinpusher.md,## Examples,3
+105,5,logbon72.pinpusher.md,## Enable Debugging Logger,3
+106,1,logicaroma.backbone-fundamentals.md,#Backbone.js Fundamentals: ,5
+106,2,logicaroma.backbone-fundamentals.md,##Index,3
+106,3,logicaroma.backbone-fundamentals.md,##Introduction,1
+106,4,logicaroma.backbone-fundamentals.md,"##<a name=""thebasics"">The Basics</a>",1
+106,5,logicaroma.backbone-fundamentals.md,###What is Backbone?,1
+106,6,logicaroma.backbone-fundamentals.md,###Why should you consider using it?,1
+106,7,logicaroma.backbone-fundamentals.md,##The Basics,1
+106,8,logicaroma.backbone-fundamentals.md,###Models,3
+106,9,logicaroma.backbone-fundamentals.md,####Initialization,3
+106,10,logicaroma.backbone-fundamentals.md,####Getters & Setters,3
+106,11,logicaroma.backbone-fundamentals.md,####Model.set(),3
+106,12,logicaroma.backbone-fundamentals.md,###Views,"3,6"
+106,13,logicaroma.backbone-fundamentals.md,####Creating new views,3
+106,14,logicaroma.backbone-fundamentals.md,####What is `el`?,3
+106,15,logicaroma.backbone-fundamentals.md,###Collections,3
+106,16,logicaroma.backbone-fundamentals.md,###Underscore utility functions,3
+106,17,logicaroma.backbone-fundamentals.md,###Routers,3
+106,18,logicaroma.backbone-fundamentals.md,####Backbone.history,3
+106,19,logicaroma.backbone-fundamentals.md,###Namespacing,"3,6"
+106,20,logicaroma.backbone-fundamentals.md,####What is namespacing?,"1,3"
+106,21,logicaroma.backbone-fundamentals.md,###Additional Tips,6
+106,22,logicaroma.backbone-fundamentals.md,####Automated Backbone Scaffolding,3
+106,23,logicaroma.backbone-fundamentals.md,####Clarifications on Backbone's MVC,"1,6"
+106,24,logicaroma.backbone-fundamentals.md,####Is there a limit to the number of routers I should be using?,3
+106,25,logicaroma.backbone-fundamentals.md,####Is Backbone too small for my application's needs?,
+106,26,logicaroma.backbone-fundamentals.md,"##<a name=""restful"">Building RESTful applications with Backbone</a>","1,3"
+106,27,logicaroma.backbone-fundamentals.md,"##Stack 1: Using Node.js, Express, Mongoose and MongoDB","3,6"
+106,28,logicaroma.backbone-fundamentals.md,###Reviewing the stack,1
+106,29,logicaroma.backbone-fundamentals.md,###Practical,3
+106,30,logicaroma.backbone-fundamentals.md,#todoapp,"-,4"
+106,31,logicaroma.backbone-fundamentals.md,### Practical Setup,3
+106,32,logicaroma.backbone-fundamentals.md,####MongoDB,3
+106,33,logicaroma.backbone-fundamentals.md,####Express and Mongoose,3
+106,34,logicaroma.backbone-fundamentals.md,#!/bin/bash,-
+106,35,logicaroma.backbone-fundamentals.md,"##<a name=""modularjs"">Modular JavaScript</a>","1,3,6"
+106,36,logicaroma.backbone-fundamentals.md,##Organizing modules with RequireJS and AMD,"1,3"
+106,37,logicaroma.backbone-fundamentals.md,###Writing AMD modules with RequireJS,3
+106,38,logicaroma.backbone-fundamentals.md,####Alternate syntax,3
+106,39,logicaroma.backbone-fundamentals.md,##External [Underscore/Handlebars/Mustache] templates using RequireJS,3
+106,40,logicaroma.backbone-fundamentals.md,##Optimizing Backbone apps for production with the RequireJS Optimizer,3
+106,41,logicaroma.backbone-fundamentals.md,##[Practical: Building a modular Backbone Todo app with AMD & RequireJS](#practical_modularapp),4
+106,42,logicaroma.backbone-fundamentals.md,###Overview,1
+106,43,logicaroma.backbone-fundamentals.md,###Markup,3
+106,44,logicaroma.backbone-fundamentals.md,###Configuration options,3
+106,45,logicaroma.backbone-fundamentals.md,"###Modularizing our models, views and collections",3
+106,46,logicaroma.backbone-fundamentals.md,##Decoupling Backbone with the Mediator and Facade patterns,
+106,47,logicaroma.backbone-fundamentals.md,### Summary,1
+106,48,logicaroma.backbone-fundamentals.md,### Practical,"1,3"
+106,49,logicaroma.backbone-fundamentals.md,##Backbone & jQuery Mobile,"-,3"
+106,50,logicaroma.backbone-fundamentals.md,###Resolving the routing conflicts,"3,6"
+106,51,logicaroma.backbone-fundamentals.md,"###Practical: A Backbone, RequireJS/AMD app with jQuery Mobile",3
+106,52,logicaroma.backbone-fundamentals.md,###Getting started,3
+106,53,logicaroma.backbone-fundamentals.md,###jQuery Mobile: Going beyond mobile application development,"1,6"
+106,54,logicaroma.backbone-fundamentals.md,##Resources,6
+107,1,luisibanhi.java-faker.md,# Java Faker,1
+107,2,luisibanhi.java-faker.md,## Usage,3
+107,3,luisibanhi.java-faker.md,## Javadoc,6
+107,4,luisibanhi.java-faker.md,## Fakers,6
+107,5,luisibanhi.java-faker.md,## Usage with Locales,3
+107,6,luisibanhi.java-faker.md,## Supported Locales,-
+107,7,luisibanhi.java-faker.md,## TODO,4
+107,8,luisibanhi.java-faker.md,## LICENSE,5
+108,1,luotianwen.vue-music.md,### 实现的功能,-
+108,2,luotianwen.vue-music.md,### 未实现的功能,-
+108,3,luotianwen.vue-music.md,## Build Setup,3
+108,4,luotianwen.vue-music.md,# 截图,-
+108,5,luotianwen.vue-music.md,### 推\xe8??,-
+108,6,luotianwen.vue-music.md,### 排行榜,-
+108,7,luotianwen.vue-music.md,### \xe6?\x9c索,-
+108,8,luotianwen.vue-music.md,### 播放页\xe9?\xa2,-
+108,9,luotianwen.vue-music.md,### 专辑页\xe9?\xa2,-
+108,10,luotianwen.vue-music.md,### 歌手页\xe9?\xa2,-
+108,11,luotianwen.vue-music.md,### 播放列表,-
+109,1,macgngsta.restdown.md,# Pretty REST API docs authored in Markdown,"1,6"
+109,2,macgngsta.restdown.md,# Installation,3
+109,3,macgngsta.restdown.md,# Conventions,"3,6"
+109,4,macgngsta.restdown.md,# Brands,1
+109,5,macgngsta.restdown.md,# Document Metadata,3
+109,6,macgngsta.restdown.md,# JSON API Summary,3
+110,1,Maclory.resnet-1k-layers.md,# Deep Residual Networks with 1K Layers,1
+110,2,Maclory.resnet-1k-layers.md,## Table of Contents,6
+110,3,Maclory.resnet-1k-layers.md,## Introduction,1
+110,4,Maclory.resnet-1k-layers.md,## Notes,1
+110,5,Maclory.resnet-1k-layers.md,## Usage,3
+111,1,maheshverma.SDWebImage.md,# Web Image,1
+111,2,maheshverma.SDWebImage.md,## Who Use It,3
+111,3,maheshverma.SDWebImage.md,## How To Use,6
+111,4,maheshverma.SDWebImage.md,### Using UIImageView+WebCache category with UITableView,3
+111,5,maheshverma.SDWebImage.md,### Using blocks,3
+111,6,maheshverma.SDWebImage.md,### Using SDWebImageManager,3
+111,7,maheshverma.SDWebImage.md,### Using Asynchronous Image Downloader Independently,3
+111,8,maheshverma.SDWebImage.md,### Using Asynchronous Image Caching Independently,3
+111,9,maheshverma.SDWebImage.md,### Using cache key filter,"3,6"
+111,10,maheshverma.SDWebImage.md,## Common Problems,
+111,11,maheshverma.SDWebImage.md,### Using dynamic image size with UITableViewCell,3
+111,12,maheshverma.SDWebImage.md,### Handle image refresh,3
+111,13,maheshverma.SDWebImage.md,### Add a progress indicator,6
+111,14,maheshverma.SDWebImage.md,## Installation,3
+111,15,maheshverma.SDWebImage.md,### Installation with CocoaPods,"3,6"
+111,16,maheshverma.SDWebImage.md,#### Podfile,3
+111,17,maheshverma.SDWebImage.md,#### Subspecs,3
+111,18,maheshverma.SDWebImage.md,### Installation with Carthage (iOS 8+),3
+111,19,maheshverma.SDWebImage.md,#### Cartfile,3
+111,20,maheshverma.SDWebImage.md,#### Usage,3
+111,21,maheshverma.SDWebImage.md,### Installation by cloning the repository,3
+111,22,maheshverma.SDWebImage.md,### Add the SDWebImage project to your project,3
+111,23,maheshverma.SDWebImage.md,### Add dependencies,3
+111,24,maheshverma.SDWebImage.md,### Add Linker Flag,3
+111,25,maheshverma.SDWebImage.md,### Import headers in your source files,3
+111,26,maheshverma.SDWebImage.md,### Build Project,6
+111,27,maheshverma.SDWebImage.md,## Future Enhancements,
+111,28,maheshverma.SDWebImage.md,## Licenses,5
+112,1,manoglobant.app.md,# ![alt tag](https://raw.github.com/dogfalo/materialize/master/images/materialize.gif),"-,1"
+112,2,manoglobant.app.md,### Current Version : v0.97.5,4
+112,3,manoglobant.app.md,## Sass Requirements:,"-,3"
+112,4,manoglobant.app.md,## Supported Browsers:,3
+112,5,manoglobant.app.md,## Changelog,4
+112,6,manoglobant.app.md,## Contributing,7
+112,7,manoglobant.app.md,## Testing,
+113,1,maojingios.MKSwizzling.md,# MKSwizzling,3
+113,2,maojingios.MKSwizzling.md,#### 1.Get Ivars,3
+113,3,maojingios.MKSwizzling.md,#### 2.Get Property,
+113,4,maojingios.MKSwizzling.md,#### 3.Get Methods,3
+113,5,maojingios.MKSwizzling.md,#### 4.send msg,3
+113,6,maojingios.MKSwizzling.md,### case 1,3
+113,7,maojingios.MKSwizzling.md,### case 2,
+113,8,maojingios.MKSwizzling.md,# Summary,"1,6"
+114,1,maszhin.coursera-progfun-1-example.md,# Assignment description,"1,6"
+114,2,maszhin.coursera-progfun-1-example.md,## Part 1: Obtain the Project Files,3
+114,3,maszhin.coursera-progfun-1-example.md,## Part 2: Using the Scala REPL,3
+114,4,maszhin.coursera-progfun-1-example.md,## Part 3: Opening the Project in Eclipse,3
+114,5,maszhin.coursera-progfun-1-example.md,## Part 4: Running your Code,3
+114,6,maszhin.coursera-progfun-1-example.md,### Using the Scala REPL,3
+114,7,maszhin.coursera-progfun-1-example.md,### Using a Main Object,3
+114,8,maszhin.coursera-progfun-1-example.md,## Part 5: Writing Tests,3
+115,1,medeirosjoaquim.html5-php.md,# HTML5-PHP,6
+115,2,medeirosjoaquim.html5-php.md,## Installation,3
+115,3,medeirosjoaquim.html5-php.md,## Basic Usage,3
+115,4,medeirosjoaquim.html5-php.md,### Options,"3,6"
+115,5,medeirosjoaquim.html5-php.md,## The Low-Level API,"3,6"
+115,6,medeirosjoaquim.html5-php.md,### Parser Design,"1,6"
+115,7,medeirosjoaquim.html5-php.md,### Serializer Design,1
+115,8,medeirosjoaquim.html5-php.md,"## Known Issues (Or, Things We Designed Against the Spec)",6
+115,9,medeirosjoaquim.html5-php.md,##XML Namespaces,"3,6"
+115,10,medeirosjoaquim.html5-php.md,## Thanks to...,5
+115,11,medeirosjoaquim.html5-php.md,## License,5
+116,1,meta-x.plumbing.md,# Plumbing and Graph: the Clojure utility belt,1
+116,2,meta-x.plumbing.md,## Graph: the Functional Swiss-Army Knife,3
+116,3,meta-x.plumbing.md,## Bring on (de)fnk,3
+116,4,meta-x.plumbing.md,## More good stuff,3
+116,5,meta-x.plumbing.md,## Community,"5,6"
+116,6,meta-x.plumbing.md,## Supported Clojure versions,4
+116,7,meta-x.plumbing.md,## License,5
+117,1,mewbak.tiles.md,#tiles [![](https://godoc.org/github.com/buckhx/tiles?status.svg)](https://godoc.org/github.com/buckhx/tiles) [![Build Status](https://travis-ci.org/buckhx/tiles.svg?branch=master)](https://travis-ci.org/buckhx/tiles),6
+117,2,mewbak.tiles.md,##### Coordinate/Tile conversion,3
+117,3,mewbak.tiles.md,##### TileIndex,3
+117,4,mewbak.tiles.md,##### Benchmarks,
+118,1,mgtagle.rticles.md,### Overview,"1,3,6"
+118,2,mgtagle.rticles.md,### Using rticles from RStudio,3
+119,1,mikeschen.20160224restaurantFinderJava.md,# Best Restaurants,6
+119,2,mikeschen.20160224restaurantFinderJava.md,"##### Epicodus exercise using Java and Postgres, 01.21.2016",1
+119,3,mikeschen.20160224restaurantFinderJava.md,##### Author Names,5
+119,4,mikeschen.20160224restaurantFinderJava.md,## Description,"1,6"
+119,5,mikeschen.20160224restaurantFinderJava.md,## Setup,3
+119,6,mikeschen.20160224restaurantFinderJava.md,## Legal,5
+120,1,Minarafiee.openFrameworks.md,# [openFrameworks](http://openframeworks.cc/),6
+120,2,Minarafiee.openFrameworks.md,##Build status,"-,1"
+120,3,Minarafiee.openFrameworks.md,## folder structure,6
+120,4,Minarafiee.openFrameworks.md,## Get involved,"6,7"
+120,5,Minarafiee.openFrameworks.md,## Developers,
+120,6,Minarafiee.openFrameworks.md,## Versioning,4
+121,1,mjdarby.password.py.md,# password.py,3
+121,2,mjdarby.password.py.md,# Why?,1
+121,3,mjdarby.password.py.md,# A possible solution,"1,3"
+121,4,mjdarby.password.py.md,# A dirty implementation,3
+121,5,mjdarby.password.py.md,# Example usage,3
+121,6,mjdarby.password.py.md,# Usage notes,3
+121,7,mjdarby.password.py.md,# For the lazy and those who live dangerously,3
+121,8,mjdarby.password.py.md,# Caveats,"1,3,6"
+121,9,mjdarby.password.py.md,# Disclaimer,"3,6"
+122,1,mnem.SparrowBones.md,# SparrowBones Xcode 4 Template,1
+122,2,mnem.SparrowBones.md,# Requirements,3
+122,3,mnem.SparrowBones.md,# Installation,3
+122,4,mnem.SparrowBones.md,# Using The Template,3
+122,5,mnem.SparrowBones.md,# Updating The Template,3
+123,1,montazze.pixel-perfecter-sketch-plugin.md,# Pixel Perfecter,1
+123,2,montazze.pixel-perfecter-sketch-plugin.md,## Select All Pixel Imperfect Layers,1
+123,3,montazze.pixel-perfecter-sketch-plugin.md,## Select One Pixel Imperfect Layer,1
+123,4,montazze.pixel-perfecter-sketch-plugin.md,## Fix Selected Pixel Imperfect Layers,
+124,1,mrxsean.ESP8266_RTOS_SDK.md,# ESP8266_RTOS_SDK #,
+124,2,mrxsean.ESP8266_RTOS_SDK.md,## Note ##,
+124,3,mrxsean.ESP8266_RTOS_SDK.md,## Requrements ##,3
+124,4,mrxsean.ESP8266_RTOS_SDK.md,## Compile ##,
+124,5,mrxsean.ESP8266_RTOS_SDK.md,## Download ##,
+125,1,mtmr0x.mtmr0x-web-client.md,## Table of Contents,"3,6"
+125,2,mtmr0x.mtmr0x-web-client.md,## Updating to New Releases,3
+125,3,mtmr0x.mtmr0x-web-client.md,## Sending Feedback,6
+125,4,mtmr0x.mtmr0x-web-client.md,## Folder Structure,3
+125,5,mtmr0x.mtmr0x-web-client.md,## Available Scripts,3
+125,6,mtmr0x.mtmr0x-web-client.md,### `npm start`,3
+125,7,mtmr0x.mtmr0x-web-client.md,### `npm test`,3
+125,8,mtmr0x.mtmr0x-web-client.md,### `npm run build`,3
+125,9,mtmr0x.mtmr0x-web-client.md,### `npm run eject`,3
+125,10,mtmr0x.mtmr0x-web-client.md,## Supported Browsers,"1,3"
+125,11,mtmr0x.mtmr0x-web-client.md,## Supported Language Features and Polyfills,"1,3,6"
+125,12,mtmr0x.mtmr0x-web-client.md,## Syntax Highlighting in the Editor,"3,6"
+125,13,mtmr0x.mtmr0x-web-client.md,## Displaying Lint Output in the Editor,3
+125,14,mtmr0x.mtmr0x-web-client.md,## Debugging in the Editor,3
+125,15,mtmr0x.mtmr0x-web-client.md,### Visual Studio Code,3
+125,16,mtmr0x.mtmr0x-web-client.md,### WebStorm,3
+125,17,mtmr0x.mtmr0x-web-client.md,## Formatting Code Automatically,3
+125,18,mtmr0x.mtmr0x-web-client.md,## Changing the Page `<title>`,3
+125,19,mtmr0x.mtmr0x-web-client.md,## Installing a Dependency,3
+125,20,mtmr0x.mtmr0x-web-client.md,## Importing a Component,"3,6"
+125,21,mtmr0x.mtmr0x-web-client.md,### `Button.js`,3
+125,22,mtmr0x.mtmr0x-web-client.md,### `DangerButton.js`,3
+125,23,mtmr0x.mtmr0x-web-client.md,## Code Splitting,"3,6"
+125,24,mtmr0x.mtmr0x-web-client.md,### `moduleA.js`,3
+125,25,mtmr0x.mtmr0x-web-client.md,### `App.js`,3
+125,26,mtmr0x.mtmr0x-web-client.md,### With React Router,3
+125,27,mtmr0x.mtmr0x-web-client.md,## Adding a Stylesheet,3
+125,28,mtmr0x.mtmr0x-web-client.md,### `Button.css`,3
+125,29,mtmr0x.mtmr0x-web-client.md,### `Button.js`,3
+125,30,mtmr0x.mtmr0x-web-client.md,## Post-Processing CSS,3
+125,31,mtmr0x.mtmr0x-web-client.md,"## Adding a CSS Preprocessor (Sass, Less etc.)",3
+125,32,mtmr0x.mtmr0x-web-client.md,"## Adding Images, Fonts, and Files",3
+125,33,mtmr0x.mtmr0x-web-client.md,## Using the `public` Folder,3
+125,34,mtmr0x.mtmr0x-web-client.md,### Changing the HTML,3
+125,35,mtmr0x.mtmr0x-web-client.md,### Adding Assets Outside of the Module System,3
+125,36,mtmr0x.mtmr0x-web-client.md,### When to Use the `public` Folder,3
+125,37,mtmr0x.mtmr0x-web-client.md,## Using Global Variables,3
+125,38,mtmr0x.mtmr0x-web-client.md,## Adding Bootstrap,3
+125,39,mtmr0x.mtmr0x-web-client.md,### Using a Custom Theme,3
+125,40,mtmr0x.mtmr0x-web-client.md,## Adding Flow,3
+125,41,mtmr0x.mtmr0x-web-client.md,## Adding a Router,3
+125,42,mtmr0x.mtmr0x-web-client.md,## Adding Custom Environment Variables,3
+125,43,mtmr0x.mtmr0x-web-client.md,### Referencing Environment Variables in the HTML,3
+125,44,mtmr0x.mtmr0x-web-client.md,### Adding Temporary Environment Variables In Your Shell,3
+125,45,mtmr0x.mtmr0x-web-client.md,#### Windows (cmd.exe),3
+125,46,mtmr0x.mtmr0x-web-client.md,#### Windows (Powershell),3
+125,47,mtmr0x.mtmr0x-web-client.md,# also works:,3
+125,48,mtmr0x.mtmr0x-web-client.md,# REACT_APP_VERSION=${npm_package_version},3
+125,49,mtmr0x.mtmr0x-web-client.md,# NOTE: THIS IS DANGEROUS!,3
+125,50,mtmr0x.mtmr0x-web-client.md,# It exposes your machine to attacks from the websites you visit.,3
+125,51,mtmr0x.mtmr0x-web-client.md,##### Windows (Powershell),3
+125,52,mtmr0x.mtmr0x-web-client.md,"##### Linux, macOS (Bash)",3
+125,53,mtmr0x.mtmr0x-web-client.md,### Disabling jsdom,3
+125,54,mtmr0x.mtmr0x-web-client.md,### Snapshot Testing,3
+125,55,mtmr0x.mtmr0x-web-client.md,### Editor Integration,3
+125,56,mtmr0x.mtmr0x-web-client.md,## Debugging Tests,3
+125,57,mtmr0x.mtmr0x-web-client.md,### Debugging Tests in Chrome,3
+125,58,mtmr0x.mtmr0x-web-client.md,### Debugging Tests in Visual Studio Code,3
+125,59,mtmr0x.mtmr0x-web-client.md,## Developing Components in Isolation,"3,6"
+125,60,mtmr0x.mtmr0x-web-client.md,### Getting Started with Storybook,"3,6"
+125,61,mtmr0x.mtmr0x-web-client.md,### Getting Started with Styleguidist,"3,6"
+125,62,mtmr0x.mtmr0x-web-client.md,## Publishing Components to npm,3
+125,63,mtmr0x.mtmr0x-web-client.md,## Making a Progressive Web App,1
+125,64,mtmr0x.mtmr0x-web-client.md,### Opting Out of Caching,3
+125,65,mtmr0x.mtmr0x-web-client.md,### Offline-First Considerations,3
+125,66,mtmr0x.mtmr0x-web-client.md,### Progressive Web App Metadata,"1,3"
+125,67,mtmr0x.mtmr0x-web-client.md,## Analyzing the Bundle Size,3
+125,68,mtmr0x.mtmr0x-web-client.md,## Deployment,3
+125,69,mtmr0x.mtmr0x-web-client.md,### Static Server,3
+125,70,mtmr0x.mtmr0x-web-client.md,### Other Solutions,3
+125,71,mtmr0x.mtmr0x-web-client.md,### Serving Apps with Client-Side Routing,3
+125,72,mtmr0x.mtmr0x-web-client.md,### Building for Relative Paths,3
+125,73,mtmr0x.mtmr0x-web-client.md,#### Serving the Same Build from Different Paths,3
+125,74,mtmr0x.mtmr0x-web-client.md,### [Azure](https://azure.microsoft.com/),"3,6"
+125,75,mtmr0x.mtmr0x-web-client.md,### [Firebase](https://firebase.google.com/),"3,6"
+125,76,mtmr0x.mtmr0x-web-client.md,### [GitHub Pages](https://pages.github.com/),3
+125,77,mtmr0x.mtmr0x-web-client.md,#### Step 1: Add `homepage` to `package.json`,3
+125,78,mtmr0x.mtmr0x-web-client.md,#### Step 2: Install `gh-pages` and add `deploy` to `scripts` in `package.json`,3
+125,79,mtmr0x.mtmr0x-web-client.md,#### Step 3: Deploy the site by running `npm run deploy`,3
+125,80,mtmr0x.mtmr0x-web-client.md,#### Step 4: Ensure your project’s settings use `gh-pages`,3
+125,81,mtmr0x.mtmr0x-web-client.md,"#### Step 5: Optionally, configure the domain",3
+125,82,mtmr0x.mtmr0x-web-client.md,#### Notes on client-side routing,3
+125,83,mtmr0x.mtmr0x-web-client.md,#### Troubleshooting,"3,6"
+125,84,mtmr0x.mtmr0x-web-client.md,"##### ""/dev/tty: No such a device or address""",3
+125,85,mtmr0x.mtmr0x-web-client.md,### [Heroku](https://www.heroku.com/),"3,6"
+125,86,mtmr0x.mtmr0x-web-client.md,#### Resolving Heroku Deployment Errors,3
+125,87,mtmr0x.mtmr0x-web-client.md,"##### ""Module not found: Error: Cannot resolve 'file' or 'directory'""",3
+125,88,mtmr0x.mtmr0x-web-client.md,"##### ""Could not find a required file.""",3
+125,89,mtmr0x.mtmr0x-web-client.md,### [Netlify](https://www.netlify.com/),3
+125,90,mtmr0x.mtmr0x-web-client.md,### [Now](https://zeit.co/now),3
+125,91,mtmr0x.mtmr0x-web-client.md,### [S3](https://aws.amazon.com/s3) and [CloudFront](https://aws.amazon.com/cloudfront/),"1,3,6"
+125,92,mtmr0x.mtmr0x-web-client.md,### [Surge](https://surge.sh/),3
+125,93,mtmr0x.mtmr0x-web-client.md,## Advanced Configuration,3
+125,94,mtmr0x.mtmr0x-web-client.md,## Troubleshooting,"3,6"
+125,95,mtmr0x.mtmr0x-web-client.md,### `npm start` doesn’t detect changes,3
+125,96,mtmr0x.mtmr0x-web-client.md,### `npm test` hangs on macOS Sierra,3
+125,97,mtmr0x.mtmr0x-web-client.md,### `npm run build` exits too early,3
+125,98,mtmr0x.mtmr0x-web-client.md,### `npm run build` fails on Heroku,"3,6"
+125,99,mtmr0x.mtmr0x-web-client.md,### Moment.js locales are missing,3
+125,100,mtmr0x.mtmr0x-web-client.md,### `npm run build` fails to minify,"3,6"
+125,101,mtmr0x.mtmr0x-web-client.md,## Alternatives to Ejecting,3
+125,102,mtmr0x.mtmr0x-web-client.md,## Something Missing?,6
+126,1,nagyist.rest.li.md,## Features,1
+126,2,nagyist.rest.li.md,## Website,"1,6"
+126,3,nagyist.rest.li.md,## Documentation,6
+126,4,nagyist.rest.li.md,## Community,5
+126,5,nagyist.rest.li.md,## Quickstart Guides and Examples,3
+127,1,narci2010.jhipster4-demo.md,# blog,"1,6"
+127,2,narci2010.jhipster4-demo.md,## Development,3
+127,3,narci2010.jhipster4-demo.md,### Managing dependencies,3
+127,4,narci2010.jhipster4-demo.md,### Using angular-cli,3
+127,5,narci2010.jhipster4-demo.md,## Building for production,"3,6"
+127,6,narci2010.jhipster4-demo.md,## Testing,3
+127,7,narci2010.jhipster4-demo.md,### Client tests,"3,6"
+127,8,narci2010.jhipster4-demo.md,### Other tests,"3,6"
+127,9,narci2010.jhipster4-demo.md,## Using Docker to simplify development (optional),"3,6"
+127,10,narci2010.jhipster4-demo.md,## Continuous Integration (optional),"3,6"
+128,1,NewLeafW.crx-selection-translate.md,# 划\xe8\xaf?翻译,-
+128,2,NewLeafW.crx-selection-translate.md,## 特点,-
+128,3,NewLeafW.crx-selection-translate.md,## 相关链接,-
+128,4,NewLeafW.crx-selection-translate.md,## \xe5?\x82与开\xe5?\x91,-
+128,5,NewLeafW.crx-selection-translate.md,### 划\xe8\xaf?翻译的\xe5\xad?项目,-
+128,6,NewLeafW.crx-selection-translate.md,## 许\xe5?\xaf,-
+129,1,ngs-doo.dsl-php-tutorial.md,# DSL platform Tutorial,
+129,2,ngs-doo.dsl-php-tutorial.md,## Introduction,1
+129,3,ngs-doo.dsl-php-tutorial.md,## Setup,3
+129,4,ngs-doo.dsl-php-tutorial.md,### What you'll need:,1
+129,5,ngs-doo.dsl-php-tutorial.md,## Get started,3
+129,6,ngs-doo.dsl-php-tutorial.md,### Short intro to NGS/DSL platform,1
+129,7,ngs-doo.dsl-php-tutorial.md,### Installation,3
+129,8,ngs-doo.dsl-php-tutorial.md,### Validate your installation,3
+129,9,ngs-doo.dsl-php-tutorial.md,## DSL 101,"1,3"
+129,10,ngs-doo.dsl-php-tutorial.md,### Writing our first DSL,3
+129,11,ngs-doo.dsl-php-tutorial.md,### Inserting posts:,3
+129,12,ngs-doo.dsl-php-tutorial.md,### Specifying relationships,3
+129,13,ngs-doo.dsl-php-tutorial.md,## Fetching objects,3
+129,14,ngs-doo.dsl-php-tutorial.md,### Generic search,3
+129,15,ngs-doo.dsl-php-tutorial.md,### Specifications,3
+129,16,ngs-doo.dsl-php-tutorial.md,### Deleting comments,3
+129,17,ngs-doo.dsl-php-tutorial.md,"### Login, logout...",3
+129,18,ngs-doo.dsl-php-tutorial.md,## DSL and beyond,1
+129,19,ngs-doo.dsl-php-tutorial.md,### PHP type safety,3
+130,1,noahtk.qksms.md,# QKSMS,3
+130,2,noahtk.qksms.md,# Contributing to QKSMS,7
+130,3,noahtk.qksms.md,### Collaboration,
+130,4,noahtk.qksms.md,### Funds,6
+130,5,noahtk.qksms.md,### Development,"6,7"
+130,6,noahtk.qksms.md,### Code style,1
+130,7,noahtk.qksms.md,# Bug Reports / Feature Requests,"6,7"
+130,8,noahtk.qksms.md,### How to help,6
+130,9,noahtk.qksms.md,#### Reporting bugs,"6,7"
+130,10,noahtk.qksms.md,##### Example bug report submission,3
+130,11,noahtk.qksms.md,#### Helping reproduce bugs,
+130,12,noahtk.qksms.md,#### Making enhancement requests,
+130,13,noahtk.qksms.md,# License,5
+131,1,northme.gitoscdingtalkapi.md,# Gitoscdingtalkapi,
+131,2,northme.gitoscdingtalkapi.md,## 版\xe6?\x83,-
+132,1,nsanden.yii2-date-range.md,# yii2-date-range,"1,3,6"
+132,2,nsanden.yii2-date-range.md,### Demo,3
+132,3,nsanden.yii2-date-range.md,### Latest Release,4
+132,4,nsanden.yii2-date-range.md,## Installation,3
+132,5,nsanden.yii2-date-range.md,## Usage,3
+132,6,nsanden.yii2-date-range.md,### DateRangePicker,3
+132,7,nsanden.yii2-date-range.md,## License,5
+133,1,nyoppy.brew.md,# Homebrew,"1,6"
+133,2,nyoppy.brew.md,## Update Bug,"3,4"
+133,3,nyoppy.brew.md,## What Packages Are Available?,"3,6"
+133,4,nyoppy.brew.md,## More Documentation,6
+133,5,nyoppy.brew.md,## Troubleshooting,"3,6"
+133,6,nyoppy.brew.md,## Contributing,7
+133,7,nyoppy.brew.md,## Security,6
+133,8,nyoppy.brew.md,## Who Are You?,5
+133,9,nyoppy.brew.md,## License,5
+133,10,nyoppy.brew.md,## Donations,6
+133,11,nyoppy.brew.md,## Sponsors,"5,6"
+134,1,opus-online.lumberman.md,# Lumberman,-
+134,2,opus-online.lumberman.md,## Installation,3
+134,3,opus-online.lumberman.md,### Setup requirejs,3
+134,4,opus-online.lumberman.md,### Setup a logger with a console destination,3
+134,5,opus-online.lumberman.md,### Usage,3
+134,6,opus-online.lumberman.md,#### Result,"-,8"
+134,7,opus-online.lumberman.md,### Using the console and ajax transport together,3
+134,8,opus-online.lumberman.md,### Using the console and loggly transport together,3
+134,9,opus-online.lumberman.md,### Using the console and sentry transport together,3
+134,10,opus-online.lumberman.md,### Browser compatibility,3
+135,1,pat-whitrock.ruby-debugging-checklist.md,# ruby-debugging-checklist,3
+136,1,patricktownley.html-map-contact-form-code-along-v-000.md,# HTML Map and Contact Form Code Along,
+136,2,patricktownley.html-map-contact-form-code-along-v-000.md,## Objectives,1
+136,3,patricktownley.html-map-contact-form-code-along-v-000.md,## Introduction,1
+136,4,patricktownley.html-map-contact-form-code-along-v-000.md,## Instructions,3
+136,5,patricktownley.html-map-contact-form-code-along-v-000.md,### Map Embed,3
+136,6,patricktownley.html-map-contact-form-code-along-v-000.md,### Form,3
+137,1,PdmsActionCenter.npoi.md,# NPOI,"1,6"
+137,2,PdmsActionCenter.npoi.md,# Support and Service,"-,1,6"
+137,3,PdmsActionCenter.npoi.md,# Advantage of NPOI,5
+137,4,PdmsActionCenter.npoi.md,# How to join,"5,6,7"
+137,5,PdmsActionCenter.npoi.md,# Neuzilla on SNS,5
+137,6,PdmsActionCenter.npoi.md,# System Requirement,3
+138,1,perestu.native_cloud_apps.md,#Introduction,1
+138,2,perestu.native_cloud_apps.md,#Software Needed,3
+138,3,perestu.native_cloud_apps.md,#Structure of the Chapters,6
+139,1,pgnepal.RTipsAndTricks.md,# Collection of R Tips and Tricks,"1,3,6"
+140,1,postnik0706.Angular2-GettingStarted.md,# Angular2-Getting Started,3
+141,1,poychang.DemoNgTodo0717.md,# DemoNgTodo0717,4
+141,2,poychang.DemoNgTodo0717.md,## Development server,3
+141,3,poychang.DemoNgTodo0717.md,## Code scaffolding,3
+141,4,poychang.DemoNgTodo0717.md,## Build,3
+141,5,poychang.DemoNgTodo0717.md,## Running unit tests,3
+141,6,poychang.DemoNgTodo0717.md,## Running end-to-end tests,3
+141,7,poychang.DemoNgTodo0717.md,## Further help,6
+142,1,pronebel.samples.md,# WebRTC code samples #,"3,6"
+142,2,pronebel.samples.md,## The demos ##,3
+142,3,pronebel.samples.md,### getUserMedia ###,"-,1,6"
+142,4,pronebel.samples.md,### RTCPeerConnection ###,"-,1,6"
+142,5,pronebel.samples.md,### RTCDataChannel ###,"-,1,6"
+142,6,pronebel.samples.md,### Video chat ###,"3,6"
+143,1,pyous.Nifty-Newsletter.md,# Nifty Newsletter,
+143,2,pyous.Nifty-Newsletter.md,## Pre-requisite,3
+143,3,pyous.Nifty-Newsletter.md,## Features,1
+143,4,pyous.Nifty-Newsletter.md,## Installation,3
+143,5,pyous.Nifty-Newsletter.md,## Finally,6
+143,6,pyous.Nifty-Newsletter.md,## License,5
+144,1,qieangel2013.php7-internal.md,# PHP7内核剖\xe6\x9e?,-
+144,2,qieangel2013.php7-internal.md,## 目录：,-
+144,3,qieangel2013.php7-internal.md,## \xe5??馈,-
+145,1,qk0106.AustrianLotto.md,# AustrianLotto,"3,4"
+146,1,qszell.Android-422-Clock-for-412.md,#  [APP][MOD] Android 422 Clock for 412 CM / AOKP / SLIM,1
+147,1,raymondchiu.operators-001-prework-web.md,# Operators,-
+147,2,raymondchiu.operators-001-prework-web.md,## Objectives,1
+147,3,raymondchiu.operators-001-prework-web.md,## Reviewing Operations,"3,6"
+147,4,raymondchiu.operators-001-prework-web.md,## The Ternary Operator `?:`,3
+147,5,raymondchiu.operators-001-prework-web.md,## Why Use the Ternary Operator?,1
+147,6,raymondchiu.operators-001-prework-web.md,## Statement Modifiers,3
+147,7,raymondchiu.operators-001-prework-web.md,## Instructions,3
+147,8,raymondchiu.operators-001-prework-web.md,## Resources,6
+148,1,resfront.jquery.animateSprite.md,# jquery.animateSprite,"-,1"
+148,2,resfront.jquery.animateSprite.md,## Release notes,4
+148,3,resfront.jquery.animateSprite.md,## How to use it,3
+148,4,resfront.jquery.animateSprite.md,## Example:,3
+148,5,resfront.jquery.animateSprite.md,##### Options,3
+148,6,resfront.jquery.animateSprite.md,##### Methods,3
+149,1,revm3up.swirl_courses.md,# swirl courses,"1,6"
+149,2,revm3up.swirl_courses.md,#### Beginner,1
+149,3,revm3up.swirl_courses.md,#### Intermediate,1
+149,4,revm3up.swirl_courses.md,#### Advanced,1
+149,5,revm3up.swirl_courses.md,#### Course Authors,5
+149,6,revm3up.swirl_courses.md,## Install and run a course automatically from swirl,3
+149,7,revm3up.swirl_courses.md,## Install and run a course manually,3
+149,8,revm3up.swirl_courses.md,## Uninstall a course,3
+149,9,revm3up.swirl_courses.md,## Using swirl in the classroom,"5,6"
+150,1,ricardobsilva.ionic_push.md,# IonicPush,3
+150,2,ricardobsilva.ionic_push.md,## Installation,3
+150,3,ricardobsilva.ionic_push.md,## Usage,3
+150,4,ricardobsilva.ionic_push.md,### Configuration,3
+150,5,ricardobsilva.ionic_push.md,### The basic,3
+150,6,ricardobsilva.ionic_push.md,### Adding Custom data to your notificaitons,3
+150,7,ricardobsilva.ionic_push.md,### Phonegap push plugin options,"3,6"
+150,8,ricardobsilva.ionic_push.md,### Customizing Notification Appearance,3
+150,9,ricardobsilva.ionic_push.md,##  @abstr_code_section ,"-,3"
+150,10,ricardobsilva.ionic_push.md,## To do,-
+150,11,ricardobsilva.ionic_push.md,## Development,3
+150,12,ricardobsilva.ionic_push.md,## Contributing,7
+151,1,Robertof.jsdelivr.md,# [jsDelivr][1] - Open Source CDN,
+151,2,Robertof.jsdelivr.md,# Why jsDelivr?,1
+151,3,Robertof.jsdelivr.md,## Performance and Uptime Oriented,3
+151,4,Robertof.jsdelivr.md,## Multi-CDN,
+151,5,Robertof.jsdelivr.md,## Smart Load Balancing,"1,3,5"
+151,6,Robertof.jsdelivr.md,# How to submit or update projects,6
+151,7,Robertof.jsdelivr.md,## File Structure,1
+151,8,Robertof.jsdelivr.md,## Auto-Updating,
+151,9,Robertof.jsdelivr.md,##### Example ([*/files/humane.js/update.json*](https://github.com/jsdelivr/jsdelivr/blob/master/files/humane.js/update.json)):,"3,6"
+151,10,Robertof.jsdelivr.md,# Usage,3
+151,11,Robertof.jsdelivr.md,## URL Structure,1
+151,12,Robertof.jsdelivr.md,## Version aliasing,4
+151,13,Robertof.jsdelivr.md,## Load multiple files with single HTTP request,3
+151,14,Robertof.jsdelivr.md,## API,"-,3,6"
+151,15,Robertof.jsdelivr.md,## Plugins,3
+151,16,Robertof.jsdelivr.md,### npm jsdelivr,3
+151,17,Robertof.jsdelivr.md,## Custom CDN Hosting,
+151,18,Robertof.jsdelivr.md,## Contribute Performance Data,7
+152,1,robyetter.ScriptedRESTAPI.md,# Generated files,3
+153,1,rudolphjacksonm.PS-BuildTools.md,# PS-BuildTools,6
+153,2,rudolphjacksonm.PS-BuildTools.md,#Table of Contents,"3,6"
+153,3,rudolphjacksonm.PS-BuildTools.md,#Setup,3
+153,4,rudolphjacksonm.PS-BuildTools.md,#Usage,3
+153,5,rudolphjacksonm.PS-BuildTools.md,##Components,-
+153,6,rudolphjacksonm.PS-BuildTools.md,###build.ps1,3
+153,7,rudolphjacksonm.PS-BuildTools.md,###psakebuild.ps1,3
+153,8,rudolphjacksonm.PS-BuildTools.md,####default,"3,6"
+153,9,rudolphjacksonm.PS-BuildTools.md,####setup,3
+153,10,rudolphjacksonm.PS-BuildTools.md,####Analyze,"3,6"
+153,11,rudolphjacksonm.PS-BuildTools.md,####Test,3
+153,12,rudolphjacksonm.PS-BuildTools.md,####Compile,"3,6"
+153,13,rudolphjacksonm.PS-BuildTools.md,###gitrepos.txt,3
+153,14,rudolphjacksonm.PS-BuildTools.md,###requirements.psd1,3
+153,15,rudolphjacksonm.PS-BuildTools.md,#Notes,3
+154,1,SearchSunny.AndroidSlidingUpPanel.md,# Android Sliding Up Panel,"1,3"
+154,2,SearchSunny.AndroidSlidingUpPanel.md,### Known Uses in Popular Apps,"3,6"
+154,3,SearchSunny.AndroidSlidingUpPanel.md,### Importing the Library,3
+154,4,SearchSunny.AndroidSlidingUpPanel.md,### Usage,3
+154,5,SearchSunny.AndroidSlidingUpPanel.md,"### Caveats, Additional Features and Customization","1,3"
+154,6,SearchSunny.AndroidSlidingUpPanel.md,### Scrollable Sliding Views,3
+154,7,SearchSunny.AndroidSlidingUpPanel.md,### Implementation,5
+154,8,SearchSunny.AndroidSlidingUpPanel.md,### Requirements,3
+154,9,SearchSunny.AndroidSlidingUpPanel.md,### Other Contributors,"5,7"
+154,10,SearchSunny.AndroidSlidingUpPanel.md,### Changelog,4
+154,11,SearchSunny.AndroidSlidingUpPanel.md,### Licence,-
+155,1,shaogz1077.AndroidArchitecture.md,#概述,-
+155,2,shaogz1077.AndroidArchitecture.md,#示例：,-
+155,3,shaogz1077.AndroidArchitecture.md,#说明,-
+155,4,shaogz1077.AndroidArchitecture.md,####dagger2,
+155,5,shaogz1077.AndroidArchitecture.md,####mvp:,-
+155,6,shaogz1077.AndroidArchitecture.md,####retrofit2:,-
+155,7,shaogz1077.AndroidArchitecture.md,####rxjava:,
+155,8,shaogz1077.AndroidArchitecture.md,#架构\xe6?\xad建,-
+155,9,shaogz1077.AndroidArchitecture.md,####示例功能；,-
+155,10,shaogz1077.AndroidArchitecture.md,####整体架构图,-
+155,11,shaogz1077.AndroidArchitecture.md,####\xe8\xbf?行webserver json,-
+155,12,shaogz1077.AndroidArchitecture.md,####关于工程,-
+155,13,shaogz1077.AndroidArchitecture.md,####关键代\xe7\xa0?,-
+155,14,shaogz1077.AndroidArchitecture.md,####更高级的用法--dagger2 划分更细的scope,-
+155,15,shaogz1077.AndroidArchitecture.md,###\xe5?\x8e记,-
+156,1,shaozhipeng.angular-seed.md,# angular-seed — the seed for AngularJS apps,1
+156,2,shaozhipeng.angular-seed.md,## Getting Started,3
+156,3,shaozhipeng.angular-seed.md,### Prerequisites,3
+156,4,shaozhipeng.angular-seed.md,### Clone angular-seed,3
+156,5,shaozhipeng.angular-seed.md,### Install Dependencies,3
+156,6,shaozhipeng.angular-seed.md,### Run the Application,3
+156,7,shaozhipeng.angular-seed.md,## Directory Layout,3
+156,8,shaozhipeng.angular-seed.md,## Testing,3
+156,9,shaozhipeng.angular-seed.md,### Running Unit Tests,3
+156,10,shaozhipeng.angular-seed.md,### End to end testing,3
+156,11,shaozhipeng.angular-seed.md,## Updating Angular,3
+156,12,shaozhipeng.angular-seed.md,## Loading Angular Asynchronously,3
+156,13,shaozhipeng.angular-seed.md,## Serving the Application Files,3
+156,14,shaozhipeng.angular-seed.md,### Running the App during Development,3
+156,15,shaozhipeng.angular-seed.md,### Running the App in Production,3
+156,16,shaozhipeng.angular-seed.md,## Continuous Integration,"3,6"
+156,17,shaozhipeng.angular-seed.md,### Travis CI,"3,6"
+156,18,shaozhipeng.angular-seed.md,### CloudBees,3
+156,19,shaozhipeng.angular-seed.md,## Contact,5
+157,1,sigmoidal.invi-l5.md,# Invi Package for Laravel 5 #,6
+157,2,sigmoidal.invi-l5.md,## Features ##,1
+157,3,sigmoidal.invi-l5.md,## Installation ##,3
+157,4,sigmoidal.invi-l5.md,## Examples ##,3
+157,5,sigmoidal.invi-l5.md,## Functions ##,3
+157,6,sigmoidal.invi-l5.md,# check,
+157,7,sigmoidal.invi-l5.md,# status,4
+157,8,sigmoidal.invi-l5.md,# active,"3,8"
+157,9,sigmoidal.invi-l5.md,# deactive,-
+157,10,sigmoidal.invi-l5.md,## License ##,5
+158,1,skynet.aws-ses-wp-mail.md,# Getting Set Up,3
+158,2,skynet.aws-ses-wp-mail.md,# Other Commands,1
+158,3,skynet.aws-ses-wp-mail.md,# Credits,5
+159,1,snailwind.shadowsocks-rss.md,# ShadowsocksR project backup,
+159,2,snailwind.shadowsocks-rss.md,## \xe5?\x84项目fork链接,-
+159,3,snailwind.shadowsocks-rss.md,## other,6
+159,4,snailwind.shadowsocks-rss.md,### fork organization,6
+159,5,snailwind.shadowsocks-rss.md,## 注\xe6\x84?,-
+159,6,snailwind.shadowsocks-rss.md,### wiki备份,"-,6"
+159,7,snailwind.shadowsocks-rss.md,#### 常用\xe6\x9c?务端代\xe7\xa0?备份,-
+159,8,snailwind.shadowsocks-rss.md,#### 常用客户端,-
+159,9,snailwind.shadowsocks-rss.md,### pac,
+159,10,snailwind.shadowsocks-rss.md,### 历\xe5?\xb2版本请\xe5\x89?往对应文件夹,-
+160,1,soa4java.gof.md,# gof,1
+160,2,soa4java.gof.md,###View(Using Razor Template),3
+160,3,soa4java.gof.md,###Model,3
+160,4,soa4java.gof.md,###Controller,"-,3"
+160,5,soa4java.gof.md,### Startup,3
+161,1,sshyran.scriblio.md,# === Scriblio ===,1
+161,2,sshyran.scriblio.md,## == Description ==,1
+161,3,sshyran.scriblio.md,### = In the WordPress.org plugin repo =,
+161,4,sshyran.scriblio.md,### = Fork me! =,6
+161,5,sshyran.scriblio.md,### = Build status =,4
+161,6,sshyran.scriblio.md,## == Installation ==,3
+161,7,sshyran.scriblio.md,## == Screenshots ==,3
+162,1,stevejpurves.52things.md,# 52things,6
+162,2,stevejpurves.52things.md,## Submissions for review,"-,7"
+162,3,stevejpurves.52things.md,## Wish list,"1,4"
+162,4,stevejpurves.52things.md,"## Promises, promises",5
+163,1,stevenh.LWC.md,#LWC: Lightweight Inventory Protection and Management,1
+163,2,stevenh.LWC.md,## What you can protect,1
+163,3,stevenh.LWC.md,## Features,1
+163,4,stevenh.LWC.md,## Converting,3
+163,5,stevenh.LWC.md,## Commands,3
+164,1,stlachman.my-each-v-000.md,# My Each,1
+164,2,stlachman.my-each-v-000.md,## Objectives,1
+164,3,stlachman.my-each-v-000.md,## Instructions,3
+166,1,suyuxuan.Office-UI-Fabric.md,#[Office UI Fabric](http://dev.office.com/fabric),"1,6"
+166,2,suyuxuan.Office-UI-Fabric.md,#####The front-end framework for building experiences for Office and Office 365.,"1,3"
+166,3,suyuxuan.Office-UI-Fabric.md,##Contents,6
+166,4,suyuxuan.Office-UI-Fabric.md,##Get started,3
+166,5,suyuxuan.Office-UI-Fabric.md,##Learn more,3
+166,6,suyuxuan.Office-UI-Fabric.md,##Contribute to Fabric,7
+166,7,suyuxuan.Office-UI-Fabric.md,##Licenses,5
+166,8,suyuxuan.Office-UI-Fabric.md,##Changelog,4
+167,1,textcreationpartnership.A45647.md,"#A refutation of the objections against the attributes of God in general in a sermon preach'd at the cathedral-church of St. Paul, September the fifth, 1698 : being the sixth of the lecture for that year founded by the Honourable Robert Boyle Esq. / by John Harris ...#",
+167,2,textcreationpartnership.A45647.md,"##Harris, John, 1667?-1719.##",
+167,3,textcreationpartnership.A45647.md,##General Summary##,
+167,4,textcreationpartnership.A45647.md,##Content Summary##,1
+167,5,textcreationpartnership.A45647.md,#####Front#####,-
+167,6,textcreationpartnership.A45647.md,#####Body#####,"3,4"
+167,7,textcreationpartnership.A45647.md,##Tag Usage Summary##,3
+167,8,textcreationpartnership.A45647.md,###Header Tag Usage###,"3,4"
+167,9,textcreationpartnership.A45647.md,###Text Tag Usage###,"3,4"
+168,1,Thaiane.rails-intro.md,## HW2: RAILS INTRO - ADD FEATURES TO ROTTENPOTATOES,1
+169,1,thanhbinh0995.login.md,# Yii 2 Advanced Project Template,"1,6"
+169,2,thanhbinh0995.login.md,## DIRECTORY STRUCTURE,1
+170,1,TheEolian.pure.md,# Pure,3
+170,2,TheEolian.pure.md,## Features,1
+170,3,TheEolian.pure.md,## Get Started,"3,6"
+170,4,TheEolian.pure.md,## Build From Source,3
+170,5,TheEolian.pure.md,### Build Files,"1,3"
+170,6,TheEolian.pure.md,## Browser Support and Testing,3
+170,7,TheEolian.pure.md,## Docs and Website,"1,6"
+170,8,TheEolian.pure.md,## Contributing,7
+170,9,TheEolian.pure.md,## License,5
+171,1,theg721.swarm.md,# [Swarm Simulator](https://swarmsim.github.io/),"1,6"
+172,1,thomascube.imaproxy.js.md,"# ""I'M A Proxy"" - Node.js IMAP proxy server","1,3"
+172,2,thomascube.imaproxy.js.md,## Installation,3
+172,3,thomascube.imaproxy.js.md,## Features,1
+172,4,thomascube.imaproxy.js.md,## Available Plugins,3
+172,5,thomascube.imaproxy.js.md,## TODOs,
+172,6,thomascube.imaproxy.js.md,## Troubleshooting,3
+172,7,thomascube.imaproxy.js.md,## Install as a Daemon,3
+172,8,thomascube.imaproxy.js.md,## License,5
+173,1,usgpo.link-service.md,# link-service,3
+173,2,usgpo.link-service.md,# govinfo link service,"3,6"
+173,3,usgpo.link-service.md,## Code of Federal Regulations (CFR),-
+173,4,usgpo.link-service.md,### Query: ,3
+173,5,usgpo.link-service.md,#### Parameters:,"3,6"
+173,6,usgpo.link-service.md,#### Examples:,"3,6"
+173,7,usgpo.link-service.md,## Compilation of Presidential Documents (CPD),-
+173,8,usgpo.link-service.md,### Query: ,"-,6"
+173,9,usgpo.link-service.md,#### Parameters:,"3,6"
+173,10,usgpo.link-service.md,#### Examples:,"3,6"
+173,11,usgpo.link-service.md,### Query: ,"3,6"
+173,12,usgpo.link-service.md,#### Parameters:,
+173,13,usgpo.link-service.md,#### Examples:,"3,6"
+173,14,usgpo.link-service.md,## Congressional Bills (BILLS),-
+173,15,usgpo.link-service.md,### Query: ,3
+173,16,usgpo.link-service.md,#### Parameters:,3
+173,17,usgpo.link-service.md,#### Examples:,"3,6"
+173,18,usgpo.link-service.md,## Congressional Calendars (CCAL),"-,3"
+173,19,usgpo.link-service.md,### Query: ,
+173,20,usgpo.link-service.md,#### Parameters:,"3,6"
+173,21,usgpo.link-service.md,#### Examples:,"3,6"
+173,22,usgpo.link-service.md,## Congressional Committee Prints (CPRT),"-,3"
+173,23,usgpo.link-service.md,### Query: ,"-,3"
+173,24,usgpo.link-service.md,#### Parameters:,"3,6"
+173,25,usgpo.link-service.md,#### Example:,"3,6"
+173,26,usgpo.link-service.md,### Query: ,"-,3"
+173,27,usgpo.link-service.md,#### Parameters:,3
+173,28,usgpo.link-service.md,#### Example:,"3,6"
+173,29,usgpo.link-service.md,### Query: ,3
+173,30,usgpo.link-service.md,#### Parameters:,"3,6"
+173,31,usgpo.link-service.md,#### Examples:,"3,6"
+173,32,usgpo.link-service.md,## Congressional Documents (CDOC),-
+173,33,usgpo.link-service.md,### Query: ,"-,6"
+173,34,usgpo.link-service.md,#### Parameters:,3
+173,35,usgpo.link-service.md,#### Examples:,"3,6"
+173,36,usgpo.link-service.md,### Query: ,3
+173,37,usgpo.link-service.md,#### Parameters:,"3,6"
+173,38,usgpo.link-service.md,#### Examples:,"3,6"
+173,39,usgpo.link-service.md,## Congressional Hearings (CHRG),-
+173,40,usgpo.link-service.md,### Query: ,3
+173,41,usgpo.link-service.md,#### Parameters:,"3,6"
+173,42,usgpo.link-service.md,#### Example:,"3,6"
+173,43,usgpo.link-service.md,### Query: ,3
+173,44,usgpo.link-service.md,#### Parameters:,"3,6"
+173,45,usgpo.link-service.md,#### Example:,"3,6"
+173,46,usgpo.link-service.md,### Query: ,3
+173,47,usgpo.link-service.md,#### Parameters:,"3,6"
+173,48,usgpo.link-service.md,#### Example:,"3,6"
+173,49,usgpo.link-service.md,## Congressional Record - Daily (CREC),-
+173,50,usgpo.link-service.md,### Query: ,3
+173,51,usgpo.link-service.md,#### Parameters:,3
+173,52,usgpo.link-service.md,#### Examples:,"3,6"
+173,53,usgpo.link-service.md,### Query: ,
+173,54,usgpo.link-service.md,#### Parameters:,3
+173,55,usgpo.link-service.md,#### Examples:,"3,6"
+173,56,usgpo.link-service.md,### Query: ,"1,6"
+173,57,usgpo.link-service.md,#### Parameters:,3
+173,58,usgpo.link-service.md,#### Examples:,"3,6"
+173,59,usgpo.link-service.md,#### Type Values ,3
+173,60,usgpo.link-service.md,##### Daily Digest Type Values,3
+173,61,usgpo.link-service.md,"##### House, Senate, and Extensions of Remarks Type Values",
+173,62,usgpo.link-service.md,##### House Type Values,6
+173,63,usgpo.link-service.md,##### Senate Type Values,3
+173,64,usgpo.link-service.md,##### Extensions of Remarks Type Values,
+173,65,usgpo.link-service.md,## Congressional Reports (CRPT),"-,6"
+173,66,usgpo.link-service.md,### Query: ,"3,6"
+173,67,usgpo.link-service.md,#### Parameters:,"3,6"
+173,68,usgpo.link-service.md,#### Examples:,"3,6"
+173,69,usgpo.link-service.md,### Query: ,-
+173,70,usgpo.link-service.md,#### Parameters:,"3,6"
+173,71,usgpo.link-service.md,#### Examples:,"3,6"
+173,72,usgpo.link-service.md,## Federal Register (FR),3
+173,73,usgpo.link-service.md,### Query: ,3
+173,74,usgpo.link-service.md,#### Parameters:,"3,6"
+173,75,usgpo.link-service.md,#### Examples:,"3,6"
+173,76,usgpo.link-service.md,### Query: ,3
+173,77,usgpo.link-service.md,#### Parameters:,"3,6"
+173,78,usgpo.link-service.md,#### Examples:,"3,6"
+173,79,usgpo.link-service.md,## Public and Private Laws (PLAW),
+173,80,usgpo.link-service.md,### Query: ,"-,3"
+173,81,usgpo.link-service.md,#### Parameters:,"3,6"
+173,82,usgpo.link-service.md,#### Example:,"3,6"
+173,83,usgpo.link-service.md,### Query: ,3
+173,84,usgpo.link-service.md,#### Parameters:,"3,6"
+173,85,usgpo.link-service.md,#### Example:,"3,6"
+173,86,usgpo.link-service.md,### Query: ,6
+173,87,usgpo.link-service.md,#### Parameters:,"3,6"
+173,88,usgpo.link-service.md,#### Example:,"3,6"
+173,89,usgpo.link-service.md,## Statutes at Large (STATUTE),-
+173,90,usgpo.link-service.md,### Query: ,"-,3"
+173,91,usgpo.link-service.md,#### Parameters:,"3,6"
+173,92,usgpo.link-service.md,#### Example:,"3,6"
+173,93,usgpo.link-service.md,### Query: ,3
+173,94,usgpo.link-service.md,#### Parameters:,"3,6"
+173,95,usgpo.link-service.md,#### Example:,"3,6"
+173,96,usgpo.link-service.md,## United States Code (USCODE),
+173,97,usgpo.link-service.md,### Query: ,3
+173,98,usgpo.link-service.md,#### Parameters:,"3,6"
+173,99,usgpo.link-service.md,#### Examples:,"3,6"
+173,100,usgpo.link-service.md,## Common Errors:,
+173,101,usgpo.link-service.md,### Multiple Results Found,6
+173,102,usgpo.link-service.md,### No Results Found,6
+173,103,usgpo.link-service.md,### Validation Failed,6
+173,104,usgpo.link-service.md,### Content File Not Found,3
+173,105,usgpo.link-service.md,### System Error,
+174,1,v-xingfa.CNTK.md,# Latest news,"1,4"
+174,2,v-xingfa.CNTK.md,# What is CNTK,1
+174,3,v-xingfa.CNTK.md,## Performance,1
+174,4,v-xingfa.CNTK.md,## Citation,5
+174,5,v-xingfa.CNTK.md,## Disclaimer ,8
+174,6,v-xingfa.CNTK.md,## Microsoft Open Source Code of Conduct,5
+175,1,Vaseltior.psa-obj-c.md,# psa-obj-c,3
+175,2,Vaseltior.psa-obj-c.md,### How to use it?,
+176,1,vinum.users.md,# Startup API,1
+176,2,vinum.users.md,## Installation,6
+176,3,vinum.users.md,## Problems and Questions,6
+177,1,VoidedDarkness.Stronghold-bot.md,# Stronghold-bot,3
+178,1,websprit.AndroidAsync.md,# AndroidAsync,1
+178,2,websprit.AndroidAsync.md,#### Features,1
+178,3,websprit.AndroidAsync.md,### Download,3
+178,4,websprit.AndroidAsync.md,### Download a url to a String,3
+178,5,websprit.AndroidAsync.md,### Download JSON from a url,3
+178,6,websprit.AndroidAsync.md,### Download a url to a file,3
+178,7,websprit.AndroidAsync.md,### Caching is supported too,6
+178,8,websprit.AndroidAsync.md,### Can also create web sockets:,3
+178,9,websprit.AndroidAsync.md,### AndroidAsync also supports socket.io,3
+178,10,websprit.AndroidAsync.md,### Need to do multipart/form-data uploads? That works too.,3
+178,11,websprit.AndroidAsync.md,### AndroidAsync also let's you create simple HTTP servers (and websocket servers):,3
+178,12,websprit.AndroidAsync.md,### Futures,"3,6"
+179,1,websupporter.Stringintelligenz.md,# Stringintelligenz,
+179,2,websupporter.Stringintelligenz.md,## Installation,3
+180,1,weihansheng.SmartTabLayout.md,# SmartTabLayout,1
+180,2,weihansheng.SmartTabLayout.md,# Usage,3
+180,3,weihansheng.SmartTabLayout.md,# Attributes,"3,6"
+180,4,weihansheng.SmartTabLayout.md,# How to customize the tab,3
+180,5,weihansheng.SmartTabLayout.md,# How to use the utility,3
+180,6,weihansheng.SmartTabLayout.md,## PagerAdapter for View-based Page,3
+180,7,weihansheng.SmartTabLayout.md,## PagerAdapter for Fragment-based Page,"3,6"
+180,8,weihansheng.SmartTabLayout.md,# Apps Using SmartTabLayout,"1,6"
+180,9,weihansheng.SmartTabLayout.md,# LICENSE,5
+181,1,WesleyCeraso.linlib.md,# Linlib [![build status](https://gitlab.com/ci/projects/20830/status.png?ref=master)](https://gitlab.com/ci/projects/20830?ref=master) [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](LICENSE),6
+181,2,WesleyCeraso.linlib.md,### Features,1
+181,3,WesleyCeraso.linlib.md,### Getting started,3
+182,1,westongcooper.app_api.md,# app_api,3
+182,2,westongcooper.app_api.md,####setup postgres with Sequel,3
+182,3,westongcooper.app_api.md,#### Then create tables,3
+182,4,westongcooper.app_api.md,#### Import CSV,3
+182,5,westongcooper.app_api.md,#### to RUN,"-,3"
+183,1,xarem.Articles-and-Tutorials.md,# DigitalOcean Articles & Tutorials,"1,6"
+183,2,xarem.Articles-and-Tutorials.md,### Criteria,3
+183,3,xarem.Articles-and-Tutorials.md,## Markdown,1
+183,4,xarem.Articles-and-Tutorials.md,## Additional Resources,6
+184,1,yanyiqun001.gold-miner.md,# 掘金翻译计划,-
+184,2,yanyiqun001.gold-miner.md,# 官方指\xe5?\x97,-
+184,3,yanyiqun001.gold-miner.md,# \xe5?\x88作伙伴,-
+184,4,yanyiqun001.gold-miner.md,# 近期文章列表,-
+184,5,yanyiqun001.gold-miner.md,## AI / Deep Learning / Machine Learning,"-,1,3"
+184,6,yanyiqun001.gold-miner.md,## Android,-
+184,7,yanyiqun001.gold-miner.md,## iOS,-
+184,8,yanyiqun001.gold-miner.md,## \xe5\x89?端,-
+184,9,yanyiqun001.gold-miner.md,## React,-
+184,10,yanyiqun001.gold-miner.md,## \xe5?\x8e端,-
+184,11,yanyiqun001.gold-miner.md,## 教程,-
+184,12,yanyiqun001.gold-miner.md,## 设计,-
+184,13,yanyiqun001.gold-miner.md,## 产\xe5\x93?,-
+185,1,yao3060.aliyun-oss-support-1.md,# 阿里云 OSS 支\xe6\x8c?\xe6?\x92件 (Aliyun OSS For WordPress),-
+185,2,yao3060.aliyun-oss-support-1.md,## 当\xe5\x89?版本,-
+185,3,yao3060.aliyun-oss-support-1.md,## \xe6?\x92件特色,-
+185,4,yao3060.aliyun-oss-support-1.md,## \xe6?\x92件使用,-
+185,5,yao3060.aliyun-oss-support-1.md,### 下载,-
+185,6,yao3060.aliyun-oss-support-1.md,### 安装,-
+185,7,yao3060.aliyun-oss-support-1.md,### \xe9\x85?置,-
+185,8,yao3060.aliyun-oss-support-1.md,## \xe5?\xaf用图片\xe6\x9c?务,-
+185,9,yao3060.aliyun-oss-support-1.md,## 题外,-
+185,10,yao3060.aliyun-oss-support-1.md,## 更新日志,-
+185,11,yao3060.aliyun-oss-support-1.md,## 贡献代\xe7\xa0?,-
+185,12,yao3060.aliyun-oss-support-1.md,## 开\xe6\xba?\xe5??议,-
+186,1,yaole.ios-resource-3x2x1x.md,# iOS 3x to 2x and 1x,"-,4"
+186,2,yaole.ios-resource-3x2x1x.md,### Description,3
+186,3,yaole.ios-resource-3x2x1x.md,### Usage,3
+186,4,yaole.ios-resource-3x2x1x.md,### History,4
+186,5,yaole.ios-resource-3x2x1x.md,### License,5
+186,6,yaole.ios-resource-3x2x1x.md,### Contact,5
+187,1,ycqiu.typhoon-blade.md,# Documentation in zh_CN,6
+187,2,ycqiu.typhoon-blade.md,## 通知,-
+187,3,ycqiu.typhoon-blade.md,## 概述,-
+187,4,ycqiu.typhoon-blade.md,## 特点,-
+187,5,ycqiu.typhoon-blade.md,## 致谢,-
+187,6,ycqiu.typhoon-blade.md,# Documentation in en_US,6
+187,7,ycqiu.typhoon-blade.md,## Brief,3
+187,8,ycqiu.typhoon-blade.md,## Features,1
+187,9,ycqiu.typhoon-blade.md,## Credit,"5,6"
+188,1,yeli-buonya.portoflio-react.md,## Table of Contents,"3,6"
+188,2,yeli-buonya.portoflio-react.md,## Updating to New Releases,3
+188,3,yeli-buonya.portoflio-react.md,## Sending Feedback,6
+188,4,yeli-buonya.portoflio-react.md,## Folder Structure,3
+188,5,yeli-buonya.portoflio-react.md,## Available Scripts,3
+188,6,yeli-buonya.portoflio-react.md,### `npm start`,3
+188,7,yeli-buonya.portoflio-react.md,### `npm test`,3
+188,8,yeli-buonya.portoflio-react.md,### `npm run build`,3
+188,9,yeli-buonya.portoflio-react.md,### `npm run eject`,3
+188,10,yeli-buonya.portoflio-react.md,## Supported Language Features and Polyfills,"1,3,6"
+188,11,yeli-buonya.portoflio-react.md,## Syntax Highlighting in the Editor,"3,6"
+188,12,yeli-buonya.portoflio-react.md,## Displaying Lint Output in the Editor,3
+188,13,yeli-buonya.portoflio-react.md,## Debugging in the Editor,3
+188,14,yeli-buonya.portoflio-react.md,## Formatting Code Automatically,3
+188,15,yeli-buonya.portoflio-react.md,## Changing the Page `<title>`,3
+188,16,yeli-buonya.portoflio-react.md,## Installing a Dependency,3
+188,17,yeli-buonya.portoflio-react.md,## Importing a Component,"3,6"
+188,18,yeli-buonya.portoflio-react.md,### `Button.js`,3
+188,19,yeli-buonya.portoflio-react.md,### `DangerButton.js`,3
+188,20,yeli-buonya.portoflio-react.md,## Code Splitting,"3,6"
+188,21,yeli-buonya.portoflio-react.md,### `moduleA.js`,3
+188,22,yeli-buonya.portoflio-react.md,### `App.js`,3
+188,23,yeli-buonya.portoflio-react.md,### With React Router,3
+188,24,yeli-buonya.portoflio-react.md,## Adding a Stylesheet,3
+188,25,yeli-buonya.portoflio-react.md,### `Button.css`,3
+188,26,yeli-buonya.portoflio-react.md,### `Button.js`,3
+188,27,yeli-buonya.portoflio-react.md,## Post-Processing CSS,3
+188,28,yeli-buonya.portoflio-react.md,"## Adding a CSS Preprocessor (Sass, Less etc.)",3
+188,29,yeli-buonya.portoflio-react.md,"## Adding Images, Fonts, and Files",3
+188,30,yeli-buonya.portoflio-react.md,## Using the `public` Folder,3
+188,31,yeli-buonya.portoflio-react.md,### Changing the HTML,3
+188,32,yeli-buonya.portoflio-react.md,### Adding Assets Outside of the Module System,3
+188,33,yeli-buonya.portoflio-react.md,### When to Use the `public` Folder,3
+188,34,yeli-buonya.portoflio-react.md,## Using Global Variables,3
+188,35,yeli-buonya.portoflio-react.md,## Adding Bootstrap,3
+188,36,yeli-buonya.portoflio-react.md,### Using a Custom Theme,3
+188,37,yeli-buonya.portoflio-react.md,## Adding Flow,3
+188,38,yeli-buonya.portoflio-react.md,## Adding Custom Environment Variables,3
+188,39,yeli-buonya.portoflio-react.md,### Referencing Environment Variables in the HTML,3
+188,40,yeli-buonya.portoflio-react.md,### Adding Temporary Environment Variables In Your Shell,3
+188,41,yeli-buonya.portoflio-react.md,#### Windows (cmd.exe),3
+188,42,yeli-buonya.portoflio-react.md,"#### Linux, macOS (Bash)",3
+188,43,yeli-buonya.portoflio-react.md,### Adding Development Environment Variables In `.env`,3
+188,44,yeli-buonya.portoflio-react.md,#### What other `.env` files are can be used?,3
+188,45,yeli-buonya.portoflio-react.md,## Can I Use Decorators?,"3,6"
+188,46,yeli-buonya.portoflio-react.md,## Integrating with an API Backend,3
+188,47,yeli-buonya.portoflio-react.md,### Node,6
+188,48,yeli-buonya.portoflio-react.md,### Ruby on Rails,6
+188,49,yeli-buonya.portoflio-react.md,## Proxying API Requests in Development,3
+188,50,yeli-buonya.portoflio-react.md,"### ""Invalid Host Header"" Errors After Configuring Proxy",3
+188,51,yeli-buonya.portoflio-react.md,### Configuring the Proxy Manually,3
+188,52,yeli-buonya.portoflio-react.md,### Configuring a WebSocket Proxy,3
+188,53,yeli-buonya.portoflio-react.md,## Using HTTPS in Development,3
+188,54,yeli-buonya.portoflio-react.md,#### Windows (cmd.exe),3
+188,55,yeli-buonya.portoflio-react.md,"#### Linux, macOS (Bash)",3
+188,56,yeli-buonya.portoflio-react.md,## Generating Dynamic `<meta>` Tags on the Server,3
+188,57,yeli-buonya.portoflio-react.md,## Pre-Rendering into Static HTML Files,3
+188,58,yeli-buonya.portoflio-react.md,## Injecting Data from the Server into the Page,3
+188,59,yeli-buonya.portoflio-react.md,## Running Tests,3
+188,60,yeli-buonya.portoflio-react.md,### Filename Conventions,3
+188,61,yeli-buonya.portoflio-react.md,### Command Line Interface,3
+188,62,yeli-buonya.portoflio-react.md,### Version Control Integration,3
+188,63,yeli-buonya.portoflio-react.md,### Writing Tests,3
+188,64,yeli-buonya.portoflio-react.md,### Testing Components,3
+188,65,yeli-buonya.portoflio-react.md,### Using Third Party Assertion Libraries,3
+188,66,yeli-buonya.portoflio-react.md,### Initializing Test Environment,3
+188,67,yeli-buonya.portoflio-react.md,#### `src/setupTests.js`,3
+188,68,yeli-buonya.portoflio-react.md,### Focusing and Excluding Tests,3
+188,69,yeli-buonya.portoflio-react.md,### Coverage Reporting,3
+188,70,yeli-buonya.portoflio-react.md,### Continuous Integration,3
+188,71,yeli-buonya.portoflio-react.md,### On CI servers,"3,6"
+188,72,yeli-buonya.portoflio-react.md,#### Travis CI,"3,6"
+188,73,yeli-buonya.portoflio-react.md,#### CircleCI,3
+188,74,yeli-buonya.portoflio-react.md,### On your own environment,3
+188,75,yeli-buonya.portoflio-react.md,##### Windows (cmd.exe),3
+188,76,yeli-buonya.portoflio-react.md,"##### Linux, macOS (Bash)",3
+188,77,yeli-buonya.portoflio-react.md,### Disabling jsdom,3
+188,78,yeli-buonya.portoflio-react.md,### Snapshot Testing,3
+188,79,yeli-buonya.portoflio-react.md,### Editor Integration,3
+188,80,yeli-buonya.portoflio-react.md,## Developing Components in Isolation,"3,6"
+188,81,yeli-buonya.portoflio-react.md,### Getting Started with Storybook,"3,6"
+188,82,yeli-buonya.portoflio-react.md,### Getting Started with Styleguidist,"3,6"
+188,83,yeli-buonya.portoflio-react.md,## Making a Progressive Web App,"1,3"
+188,84,yeli-buonya.portoflio-react.md,### Offline-First Considerations,3
+188,85,yeli-buonya.portoflio-react.md,### Progressive Web App Metadata,3
+188,86,yeli-buonya.portoflio-react.md,## Analyzing the Bundle Size,3
+188,87,yeli-buonya.portoflio-react.md,## Something Missing?,6
+189,1,zileyuan.simple-rtmp-server.md,#Simple-RTMP-Server,6
+189,2,zileyuan.simple-rtmp-server.md,## About,"1,4,6"
+189,3,zileyuan.simple-rtmp-server.md,## AUTHORS,5
+189,4,zileyuan.simple-rtmp-server.md,## Usage,3
+189,5,zileyuan.simple-rtmp-server.md,## Donation,8
+189,6,zileyuan.simple-rtmp-server.md,## System Requirements,3
+189,7,zileyuan.simple-rtmp-server.md,## Summary,"-,6"
+189,8,zileyuan.simple-rtmp-server.md,## Releases,4
+189,9,zileyuan.simple-rtmp-server.md,## History,4
+189,10,zileyuan.simple-rtmp-server.md,## Performance,4
+189,11,zileyuan.simple-rtmp-server.md,## [winlin@dev6 srs]$ dstat,
+189,12,zileyuan.simple-rtmp-server.md,## Compare,"4,6"
+189,13,zileyuan.simple-rtmp-server.md,## Architecture,1
+189,14,zileyuan.simple-rtmp-server.md,### System Architecture,1
+189,15,zileyuan.simple-rtmp-server.md,### Modularity Architecture,1
+189,16,zileyuan.simple-rtmp-server.md,### Stream Architecture,1
+189,17,zileyuan.simple-rtmp-server.md,### [HDS/HLS origin backup](https://github.com/winlinvip/simple-rtmp-server/wiki/RTMP-ATC),-
+189,18,zileyuan.simple-rtmp-server.md,### [RTMP cluster(origin/edge) Architecture](https://github.com/winlinvip/simple-rtmp-server/wiki/Edge),"-,1"
+189,19,zileyuan.simple-rtmp-server.md,### (plan) SRS Multiple processes Architecture(design by wenjie),3
+189,20,zileyuan.simple-rtmp-server.md,### (plan) CLI Architecture,"3,6"
+189,21,zileyuan.simple-rtmp-server.md,### Live FlashP2P,-
+189,22,zileyuan.simple-rtmp-server.md,### Bandwidth Test Workflow,-
+190,1,ziyu-zhang.knn-matting.md,# [KNN Matting](http://dingzeyu.li/projects/knn/) ,"1,5"
+190,2,ziyu-zhang.knn-matting.md,## Installation Steps,3
+190,3,ziyu-zhang.knn-matting.md,### Linux and Mac,"-,3"
+190,4,ziyu-zhang.knn-matting.md,### Windows or Manual Installation,3
+190,5,ziyu-zhang.knn-matting.md,### Optional Data,"1,3"
+190,6,ziyu-zhang.knn-matting.md,## Running the Demo ,3
+190,7,ziyu-zhang.knn-matting.md,### More Information,"3,6"
+190,8,ziyu-zhang.knn-matting.md,### Disclaimer,7
+190,9,ziyu-zhang.knn-matting.md,### Contact ,
+191,1,zouhuigang.crawler4social.md,#\xbc\xe0\xbf\xd8\xc9罻\xcd\xf8\xc2\xe7״̬\xc5\xc0\xb3\xe6,-
+191,2,zouhuigang.crawler4social.md,##\xb9\xa6\xc4\xdc˵\xc3\xf7,"-,4"
+191,3,zouhuigang.crawler4social.md,##ʹ\xd3\xc3˵\xc3\xf7,-
+192,1,ZyuAFD.interactive-coding-challenges.md,# interactive-coding-challenges,
+192,2,ZyuAFD.interactive-coding-challenges.md,## Challenge Solutions,1
+192,3,ZyuAFD.interactive-coding-challenges.md,## Notebook Structure,1
+192,4,ZyuAFD.interactive-coding-challenges.md,### Problem Statement,"3,6"
+192,5,ZyuAFD.interactive-coding-challenges.md,### Constraints,3
+192,6,ZyuAFD.interactive-coding-challenges.md,### Test Cases,3
+192,7,ZyuAFD.interactive-coding-challenges.md,### Algorithm,3
+192,8,ZyuAFD.interactive-coding-challenges.md,### Hints,1
+192,9,ZyuAFD.interactive-coding-challenges.md,### Code (Challenge: Implement Me!),1
+192,10,ZyuAFD.interactive-coding-challenges.md,### Unit Test,3
+192,11,ZyuAFD.interactive-coding-challenges.md,## Future Development,
+192,12,ZyuAFD.interactive-coding-challenges.md,## Index,3
+192,13,ZyuAFD.interactive-coding-challenges.md,### Challenges Categories,1
+192,14,ZyuAFD.interactive-coding-challenges.md,### Installing and Running Challenges,3
+192,15,ZyuAFD.interactive-coding-challenges.md,### Misc,
+192,16,ZyuAFD.interactive-coding-challenges.md,## Challenges,1
+192,17,ZyuAFD.interactive-coding-challenges.md,### Arrays and Strings,"1,3,6"
+192,18,ZyuAFD.interactive-coding-challenges.md,### Linked Lists,1
+192,19,ZyuAFD.interactive-coding-challenges.md,### Stacks and Queues,1
+192,20,ZyuAFD.interactive-coding-challenges.md,### Sorting and Searching,1
+192,21,ZyuAFD.interactive-coding-challenges.md,### Recursion and Dynamic Programming,1
+192,22,ZyuAFD.interactive-coding-challenges.md,### Trees and Graphs,3
+192,23,ZyuAFD.interactive-coding-challenges.md,### Mathematics and Probability,
+192,24,ZyuAFD.interactive-coding-challenges.md,### Bit Manipulation,"3,6"
+192,25,ZyuAFD.interactive-coding-challenges.md,### Online Judges,1
+192,26,ZyuAFD.interactive-coding-challenges.md,## Repo Structure,3
+192,27,ZyuAFD.interactive-coding-challenges.md,## Running Challenges,
+192,28,ZyuAFD.interactive-coding-challenges.md,### Notebooks,3
+192,29,ZyuAFD.interactive-coding-challenges.md,### Nose Unit Tests,3
+192,30,ZyuAFD.interactive-coding-challenges.md,## Notebook Installation,3
+192,31,ZyuAFD.interactive-coding-challenges.md,## Nose Installation,3
+192,32,ZyuAFD.interactive-coding-challenges.md,## Contributing,7
+192,33,ZyuAFD.interactive-coding-challenges.md,## Credits,5
+192,34,ZyuAFD.interactive-coding-challenges.md,### Resources,6
+192,35,ZyuAFD.interactive-coding-challenges.md,### Images,"-,1,6"
+192,36,ZyuAFD.interactive-coding-challenges.md,## Contact Info,5
+192,37,ZyuAFD.interactive-coding-challenges.md,## License,5
