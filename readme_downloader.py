@@ -94,11 +94,11 @@ class Readme:
 
         if os.path.exists(self._project_data_path):
             logging.info(f'Project dataset file already exists {self._project_data_path}')
-            self._new_repos_df = pd.read_csv(self._project_data_path, usecols=['url', 'readme_location', 'saved_as'])
+            self._new_repos_df = pd.read_csv(self._project_data_path, usecols=['url', 'readme_location', 'saved_as', 'language'])
 
         else:
             logging.info(f'Creating project dataset file {self._project_data_path}')
-            self._new_repos_df = pd.DataFrame(columns=['url', 'readme_location', 'saved_as'])
+            self._new_repos_df = pd.DataFrame(columns=['url', 'readme_location', 'saved_as', 'language'])
             self._new_repos_df.to_csv(self._project_data_path, header=True)
         # --------------------------------------------------------------------------------
 
@@ -207,7 +207,7 @@ class Readme:
                 fd.write(chunk)
 
 
-        self._new_repos_df = self._new_repos_df.append({'url': html_url, 'readme_location': readme_location, 'saved_as': filename},
+        self._new_repos_df = self._new_repos_df.append({'url': html_url, 'readme_location': readme_location, 'saved_as': filename, 'language': None},
                                                         ignore_index=True)
         self._new_repos_df.to_csv(self._project_data_path, header=True)
 
