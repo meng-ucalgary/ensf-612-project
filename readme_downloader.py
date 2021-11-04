@@ -112,9 +112,9 @@ class Readme:
         self._markdown_name = ['README', 'readme']
 
         # https://github.com/github/markup/blob/master/README.md
-        # markdown_exts_small = ['.adoc', '.asciidoc', '.creole', '.markdown', '.md', '.mdown', '.mediawiki', '.mkdn', '.org', '.pod', '.rdoc', '.rst', '.textile', '.wiki', '.asc']
-        markdown_exts_small = ['.md', '.markdown', '.mdown', '.mkdn', '.adoc', '.asciidoc', '.creole', '.mediawiki',
-                                '.org', '.pod', '.rdoc', '.rst', '.textile', '.wiki', '.asc']
+        # markdown_exts_small = ['adoc', 'asciidoc', 'creole', 'markdown', 'md', 'mdown', 'mediawiki', 'mkdn', 'org', 'pod', 'rdoc', 'rst', 'textile', 'wiki', 'asc']
+        markdown_exts_small = ['md', 'markdown', 'mdown', 'mkdn', 'adoc', 'asciidoc', 'creole', 'mediawiki',
+                                'org', 'pod', 'rdoc', 'rst', 'textile', 'wiki', 'asc']
 
         self._markdown_exts = []
 
@@ -191,14 +191,15 @@ class Readme:
         Saves the contents of the request as name derived from
         qualified_name in the directory directory_project_data
         '''
+        # qualified_name = [repo_name, default_branch, readme_folder, readme_name, readme_extension]
+
+        filename = ".".join(qualified_name[0].split('/') + [qualified_name[4]])
 
         if qualified_name[2] is None:
-            filename = ".".join(qualified_name[0].split('/') + [qualified_name[1], qualified_name[3]])
-            readme_location = str(qualified_name[3])
+            readme_location = str(qualified_name[3] + '.' + qualified_name[4])
 
         else:
-            filename = ".".join(qualified_name[0].split('/') + qualified_name[1:])
-            readme_location = str(qualified_name[2] + '/' + qualified_name[3])
+            readme_location = str(qualified_name[2] + '/' + qualified_name[3] + '.' + qualified_name[4])
 
         with open(os.path.join(self._directory_project_data, filename), 'wb') as fd:
             logging.info(f'Saving readme as {filename}')
@@ -250,15 +251,15 @@ class Readme:
                     test_url = ''
 
                     if x is None:
-                        test_url = repo_raw_url + '/' + default_branch + '/' + y + z
+                        test_url = repo_raw_url + '/' + default_branch + '/' + y + '.' +  z
 
                     else:
-                        test_url = repo_raw_url + '/' + default_branch + '/' + x + '/' + y + z
+                        test_url = repo_raw_url + '/' + default_branch + '/' + x + '/' + y + '.' +  z
 
                     logging.info(f'Finding README at {test_url}')
 
                     if self.fetch_request(test_url).status_code == requests.codes.ok:
-                        return test_url, [repo_name, default_branch, x, y+z]
+                        return test_url, [repo_name, default_branch, x, y, z]
 
         return None, None
 
