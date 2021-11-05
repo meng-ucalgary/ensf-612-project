@@ -1,0 +1,108 @@
+h1. rfetion
+
+rfetion is a ruby gem for China Mobile fetion service that you can send SMS free.
+
+**************************************************************************
+
+h2. Demo
+
+see "http://fetion.heroku.com":http://fetion.heroku.com
+
+**************************************************************************
+
+h2. Install
+
+<pre><code>
+gem sources -a http://gemcutter.org
+gem install rfetion
+</code></pre>
+
+**************************************************************************
+
+h2. Usage
+
+* send sms to friends or yourself
+
+<pre><code>
+Fetion.send_sms(options)
+</code></pre>
+
+options can be:
+<code>mobile_no</code>
+<code>sid</code>
+<code>password</code>
+<code>receivers</code>, if receivers are nil, send sms to yourself
+<code>content</code>
+<code>logger_level</code>
+
+
+* send schedule sms to friends
+
+<pre><code>
+Fetion.schedule_sms(options)
+</code></pre>
+
+options can be:
+<code>mobile_no</code>
+<code>sid</code>
+<code>password</code>
+<code>receivers</code>, if receivers are nil, send sms to yourself
+<code>content</code>
+<code>time</code>, time format is %Y-%m-%d %H:%M:%S
+<code>logger_level</code>
+
+
+* add friend
+
+<pre><code>
+Fetion.add_buddy(options)
+</code></pre>
+
+options can be:
+<code>mobile_no</code>
+<code>sid</code>
+<code>password</code>
+<code>friend_mobile</code>
+<code>friend_sip</code>
+<code>logger_level</code>
+
+**************************************************************************
+
+h2. Shell command
+
+you can use it in shell command directly
+
+<pre><code>
+Usage: rfetion [options]
+
+    Example: rfetion -m mobile -p password -c sms_content
+             rfetion -s sip -p password -c sms_content
+             rfetion -m mobile -p password -r mobile_or_fetion_numbers -c sms_content
+             rfetion -m mobile -p password -r mobile_or_fetion_numbers -c sms_content -t time
+             rfetion -m mobile -p password --add-buddy-with-mobile friend_mobile
+             rfetion -s sip -p password --add-buddy-with-mobile friend_mobile
+             rfetion -m mobile -p password --add-buddy-with-sip friend_sip
+
+
+    -m, --mobile MOBILE              Fetion mobile number
+    -s, --sip FETION_SIP             Fetion sid number
+    -p, --password PASSWORD          Fetion password
+    -c, --content CONTENT            Fetion message content
+    -r, --receivers MOBILE,SIP       Receivers' Fetion mobile numbers or fetion sip numbers, if no recievers, send sms to yourself
+    -t, --time TIME                  Schedule time to send sms, format is "2009-12-10 20:00:00"
+        --add-buddy-with-mobile MOBILE
+                                     Add friend mobile as fetion friend
+        --add-buddy-with-sip SIP     Add friend fetion sip as fetion friend
+
+different mode:
+        --debug                      debug mode
+        --silence                    silence mode
+
+Common options:
+    -v, --version                    Show this version
+    -h, --help                       Show this message
+</code></pre>
+
+******************************************************************************
+
+Copyright (c) 2009 Richard Huang (flyerhzm@gmail.com), released under the MIT license
